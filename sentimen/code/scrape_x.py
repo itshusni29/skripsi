@@ -1,135 +1,158 @@
+
+import os
 import time
+import random
 import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+import undetected_chromedriver as uc # Library Baru
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
 
-# Setup Chrome Options (Agar tidak terdeteksi bot)
-options = webdriver.ChromeOptions()
-# options.add_argument("--headless") # Jangan nyalakan headless dulu agar bisa lihat prosesnya
-options.add_argument("--disable-gpu")
-options.add_argument("--no-sandbox")
-options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36")
+# ==========================================
+# 1. KONFIGURASI
+# ==========================================
+SAVE_DIR = "/home/mrsnow/dev/python/skripsi/skripsi/sentimen/data"
+# Simaung265034
+# XnTuv-=223
+# Target Scraping
+TARGET_START_DATE = "2017-04-13"
+TARGET_UNTIL_DATE = "2017-04-16"
+MAX_DATA = 50 
 
-# Inisialisasi Driver
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+# ==========================================
+# 2. QUERY BUILDER
+# ==========================================
+def build_query():
+    keywords = ["Persib", "#PersibDay", "Maung Bandung", "Sib"]
+    query_string = "(" + " OR ".join(keywords) + ")"
+    # Kita hapus filter strict agar data lama yang sedikit bisa terambil
+    final_query = f"{query_string} lang:id since:{TARGET_START_DATE} until:{TARGET_UNTIL_DATE}"
+    return final_query
 
+# ==========================================
+# 3. SETUP DRIVER (MODIFIED)
+# ==========================================
+def setup_driver():
+    print("🔧 Menyiapkan Undetected Chrome...")
+    options = uc.ChromeOptions()
+    # options.add_argument("--headless") # Jangan nyalakan headless saat login manual
+    options.add_argument("--disable-popup-blocking")
+    
+    # Inisialisasi driver versi undetected
+    # use_subprocess=True membantu kestabilan di Linux
+    driver = uc.Chrome(options=options, use_subprocess=True) 
+    return driver
 
-def login_twitter(username, password, email_verification):
+def random_sleep(min_sec=2, max_sec=5):
+    time.sleep(random.uniform(min_sec, max_sec))
+
+# ==========================================
+# 4. LOGIN MANUAL (STEALTH MODE)
+# ==========================================
+def login_manual_step(driver):
+    print("🚀 Membuka Halaman Login...")
     driver.get("https://twitter.com/i/flow/login")
-    time.sleep(5) # Tunggu loading
-
-    # 1. Masukkan Username
-    user_input = WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.NAME, "text"))
-    )
-    user_input.send_keys(username)
-    user_input.send_keys(Keys.ENTER)
-    time.sleep(3)
-
-    # 2. Cek apakah minta verifikasi (kadang muncul minta email/no hp)
-    try:
-        verif_input = driver.find_element(By.NAME, "text")
-        verif_input.send_keys(email_verification) # Masukkan email/no hp jika diminta
-        verif_input.send_keys(Keys.ENTER)
-        time.sleep(3)
-    except:
-        pass # Jika tidak diminta, lanjut
-
-    # 3. Masukkan Password
-    pass_input = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.NAME, "password"))
-    )
-    pass_input.send_keys(password)
-    pass_input.send_keys(Keys.ENTER)
     
-    print("Login Berhasil!")
-    time.sleep(5)
-
-
-
-def scrape_tweets(keyword, since_date, until_date, max_tweets=50):
-    # Format query pencarian X: "Persib since:2023-01-01 until:2023-01-02 lang:id"
-    # lang:id agar hanya mengambil tweet bahasa Indonesia
-    query = f"{keyword} since:{since_date} until:{until_date} lang:id"
-    encoded_query = query.replace(" ", "%20").replace(":", "%3A")
+    print("\n" + "="*50)
+    print("🛑 PERHATIAN: SILAKAN LOGIN MANUAL SEKARANG")
+    print("="*50)
+    print("Karena pakai 'undetected-chromedriver', X tidak akan tahu ini bot.")
+    print("Silakan masukkan username & password dengan tenang.")
+    print("="*50)
     
+    input("👉 Setelah berhasil masuk Beranda, TEKAN ENTER di sini...")
+    print("✅ Lanjut proses scraping...")
+
+# ==========================================
+# 5. SCRAPING LOGIC
+# ==========================================
+def scrape_tweets(driver, query):
+    print(f"🔎 Mencari data: {query}")
+    encoded_query = query.replace(" ", "%20").replace(":", "%3A").replace("(", "%28").replace(")", "%29")
     url = f"https://twitter.com/search?q={encoded_query}&src=typed_query&f=live"
+    
     driver.get(url)
-    time.sleep(5)
+    time.sleep(5) 
 
     data = []
-    tweet_ids = set()
+    unique_ids = set()
+    scroll_attempts = 0
     last_height = driver.execute_script("return document.body.scrollHeight")
-    
-    while len(data) < max_tweets:
-        # Cari semua elemen tweet yang ada di layar
-        cards = driver.find_elements(By.XPATH, '//article[@data-testid="tweet"]')
+
+    while len(data) < MAX_DATA:
+        articles = driver.find_elements(By.XPATH, '//article[@data-testid="tweet"]')
         
-        for card in cards:
+        if not articles:
+            time.sleep(2)
+        
+        for article in articles:
             try:
-                # Ambil Username
-                user = card.find_element(By.XPATH, './/div[@data-testid="User-Name"]').text
+                try:
+                    username = article.find_element(By.XPATH, './/div[@data-testid="User-Name"]').text.split('\n')[0]
+                except: continue
+
+                try:
+                    text_content = article.find_element(By.XPATH, './/div[@data-testid="tweetText"]').text
+                except: text_content = "[Media Only]"
+
+                time_elm = article.find_element(By.TAG_NAME, 'time')
+                dt_str = time_elm.get_attribute('datetime')
                 
-                # Ambil Teks Tweet
-                text = card.find_element(By.XPATH, './/div[@data-testid="tweetText"]').text
+                tweet_id = f"{username}_{dt_str}"
                 
-                # Ambil Waktu
-                date_element = card.find_element(By.TAG_NAME, 'time')
-                date = date_element.get_attribute('datetime')
-                
-                # Unik ID (Untuk mencegah duplikat)
-                tweet_signature = user + date
-                
-                if tweet_signature not in tweet_ids:
-                    tweet_ids.add(tweet_signature)
-                    data.append([date, user, text])
+                if tweet_id not in unique_ids:
+                    unique_ids.add(tweet_id)
+                    clean_text = text_content.replace('\n', ' ').replace(';', ',')
                     
-            except Exception as e:
-                continue # Skip jika ada elemen yang gagal diambil
+                    data.append({'date': dt_str, 'username': username, 'text': clean_text})
+                    print(f"[+{len(data)}] {dt_str[:10]} | {username}")
+                
+                if len(data) >= MAX_DATA: break
+            except Exception: continue
+
+        if len(data) >= MAX_DATA: break
+
+        driver.execute_script("window.scrollBy(0, 600);") 
+        random_sleep(2, 4)
         
-        # Scroll ke bawah
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(3) # Tunggu loading tweet baru
-        
-        # Cek apakah sudah mentok bawah
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
-            break
-        last_height = new_height
+            scroll_attempts += 1
+            print(f"⏳ Loading... ({scroll_attempts}/4)")
+            if scroll_attempts >= 4:
+                print("🛑 Mentok / Tidak ada data lagi.")
+                break
+        else:
+            scroll_attempts = 0
+            last_height = new_height
+            
+    return pd.DataFrame(data)
+
+# ==========================================
+# 6. MAIN EXECUTION
+# ==========================================
+if __name__ == "__main__":
+    if not os.path.exists(SAVE_DIR):
+        os.makedirs(SAVE_DIR)
+
+    driver = setup_driver()
+    
+    try:
+        login_manual_step(driver)
         
-        print(f"Mengumpulkan {len(data)} tweet...")
-
-    return pd.DataFrame(data, columns=['Date', 'User', 'Text'])
-
-
-# --- CONFIGURASI ANDA ---
-MY_USER = "username_x_anda"
-MY_PASS = "password_x_anda"
-MY_EMAIL = "email_atau_nohp_anda" # Untuk verifikasi jika diminta
-
-KEYWORD = "Persib" 
-# Contoh: Ambil data sebelum laga Persib vs Persija (misal laga tgl 10 Jan 2023)
-# Maka ambil dari tgl 7 sampai 9 Jan.
-START_DATE = "2023-01-07"
-END_DATE = "2023-01-09"
-
-try:
-    # 1. Login
-    login_twitter(MY_USER, MY_PASS, MY_EMAIL)
-    
-    # 2. Scrape
-    df_tweets = scrape_tweets(KEYWORD, START_DATE, END_DATE, max_tweets=100)
-    
-    # 3. Simpan
-    filename = f"tweets_persib_{START_DATE}.csv"
-    df_tweets.to_csv(filename, index=False)
-    print(f"Selesai! Data disimpan di {filename}")
-    print(df_tweets.head())
-
-finally:
-    driver.quit()
+        search_query = build_query()
+        df_result = scrape_tweets(driver, search_query)
+        
+        if not df_result.empty:
+            filename = f"tweets_persib_{TARGET_START_DATE}_stealth.csv"
+            full_path = os.path.join(SAVE_DIR, filename)
+            df_result.to_csv(full_path, index=False)
+            print(f"✅ SUKSES! Data disimpan di: {full_path}")
+        else:
+            print("❌ Data kosong.")
+            
+    except Exception as e:
+        print(f"Error: {e}")
+    finally:
+        # driver.quit() # Opsional: Komen ini jika ingin browser tetap terbuka untuk debug
+        pass
