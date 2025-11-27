@@ -1,0 +1,56 @@
+======================================================================
+LAPORAN SCRAPING YOUTUBE DATA FNB KARAWANG
+======================================================================
+Tanggal Proses: 2025-11-27 22:46:45
+API Key: ***3vuBKfwc
+Max Video/Keyword: 30
+Max Komentar/Video: 50
+Total Keywords: 32
+======================================================================
+
+PROGRES PER KEYWORD:
+--------------------------------------------------
+✅ 'kuliner karawang viral': 30 video, 331 komentar (7.8s)
+✅ 'jajanan karawang hits': 15 video, 186 komentar (3.8s)
+✅ 'rekomendasi makanan karawang': 6 video, 14 komentar (0.9s)
+✅ 'wisata kuliner karawang': 18 video, 176 komentar (3.8s)
+✅ 'tempat nongkrong karawang': 27 video, 241 komentar (6.5s)
+✅ 'hidden gem karawang': 28 video, 22 komentar (3.0s)
+✅ 'street food karawang': 14 video, 233 komentar (5.5s)
+✅ 'makanan pedas karawang': 18 video, 613 komentar (7.0s)
+✅ 'bakso enak di karawang': 32 video, 598 komentar (9.3s)
+✅ 'mie ayam karawang legendaris': 30 video, 204 komentar (6.2s)
+✅ 'seblak karawang viral': 26 video, 340 komentar (6.9s)
+✅ 'sate maranggi karawang': 29 video, 233 komentar (6.6s)
+✅ 'seafood karawang murah': 28 video, 137 komentar (6.3s)
+✅ 'nasgor karawang enak': 30 video, 414 komentar (7.5s)
+✅ 'bubur ayam karawang': 29 video, 125 komentar (4.4s)
+✅ 'soto tangkar karawang': 24 video, 210 komentar (5.0s)
+✅ 'durian karawang': 30 video, 233 komentar (7.1s)
+✅ 'cafe aesthetic karawang': 24 video, 76 komentar (3.7s)
+✅ 'coffee shop karawang': 18 video, 87 komentar (3.6s)
+✅ 'restoran keluarga karawang': 18 video, 71 komentar (5.1s)
+✅ 'tempat makan romantis karawang': 25 video, 186 komentar (4.8s)
+✅ 'cafe instagramable karawang': 10 video, 76 komentar (3.9s)
+✅ 'resto sunda karawang': 15 video, 94 komentar (3.4s)
+✅ 'kuliner galuh mas karawang': 27 video, 130 komentar (5.2s)
+✅ 'kuliner karawang barat': 2 video, 0 komentar (0.4s)
+✅ 'kuliner cikampek': 27 video, 248 komentar (7.9s)
+✅ 'kuliner perumnas karawang': 11 video, 53 komentar (3.7s)
+✅ 'kuliner tuparev karawang': 21 video, 11 komentar (2.7s)
+✅ 'jajanan gor panatayuda karawang': 4 video, 102 komentar (1.9s)
+✅ 'mukbang karawang': 19 video, 621 komentar (7.4s)
+✅ 'review jujur makanan karawang': 15 video, 457 komentar (5.6s)
+✅ 'vlog kuliner karawang': 4 video, 2 komentar (0.7s)
+
+==================================================
+HASIL AKHIR SCRAPING
+==================================================
+Waktu proses: 2m 37s
+Keywords berhasil: 32
+Keywords gagal: 0
+Total video diproses: 654
+Total komentar dikumpulkan: 6524
+Duplikat dihapus: 13
+Data final: 6724 baris
+File output: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/yt/dataset_youtube_fnb_karawang_MASSIVE_20251127_224645.csv

@@ -1,0 +1,1 @@
+2025-11-27 22:46:29,833 - ERROR - ❌ Masukkan API Key Google YouTube Data API v3 terlebih dahulu!

@@ -1,0 +1,44 @@
+======================================================================
+LAPORAN PROSES GEOCODING DATA FNB KARAWANG
+======================================================================
+Tanggal Proses: 2025-11-27 22:23:40
+File Input: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/data_fnb_karawang_comprehensive.csv
+File Output: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/data_fnb_karawang_fixed_full.csv
+File Log: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/geocoding_log_20251127_222340.txt
+======================================================================
+Total data awal: 2046 baris
+
+PROSES GEOCODING:
+--------------------------------------------------
+Memulai proses dari awal
+
+HASIL PROSES:
+--------------------------------------------------
+Waktu proses: 65 menit 29 detik
+Total data diproses: 2046 baris
+Alamat Jalan diperbaiki: 1407 baris
+Kota/Kabupaten diperbaiki: 1563 baris
+
+STATISTIK STATUS GEOCODING:
+  ✅ Success: 1600
+  ⏭️  Skip: 446
+  ❌ Error: 0
+  ⚠️  No Data: 0
+  📊 Success Rate: 100.00%
+
+DETAIL PERBAIKAN:
+--------------------------------------------------
+Alamat Jalan kosong awal: 1478
+Alamat Jalan kosong akhir: 71
+Kota kosong awal: 1573
+Kota kosong akhir: 10
+
+FILE OUTPUT:
+--------------------------------------------------
+Data hasil: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/data_fnb_karawang_fixed_full.csv
+Log proses: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/geocoding_log_20251127_222340.txt
+Laporan ini: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/summary_report_20251127_222340.txt
+
+======================================================================
+PROSES SELESAI
+======================================================================

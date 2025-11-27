@@ -1,0 +1,1 @@
+STATUS: GAGAL - ❌ Masukkan API Key Google YouTube Data API v3 terlebih dahulu!

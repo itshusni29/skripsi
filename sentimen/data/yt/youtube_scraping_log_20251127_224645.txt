@@ -1,0 +1,570 @@
+2025-11-27 22:46:45,317 - INFO - 🔄 Menginisialisasi YouTube API service...
+2025-11-27 22:46:45,318 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-11-27 22:46:45,322 - INFO - ✅ YouTube API service berhasil dibuat
+2025-11-27 22:46:45,322 - INFO - 🚀 MEMULAI SCRAPING MASSIF YOUTUBE
+2025-11-27 22:46:45,322 - INFO - 🔑 Total Keywords: 32
+2025-11-27 22:46:45,322 - INFO - 🎥 Target Video/Keyword: 30
+2025-11-27 22:46:45,322 - INFO - 🗣️ Target Komentar/Video: 50
+2025-11-27 22:46:45,325 - INFO - 🔍 Memproses keyword: 'kuliner karawang viral'
+2025-11-27 22:46:46,096 - INFO - 📹 Ditemukan 30 video baru untuk keyword 'kuliner karawang viral'
+2025-11-27 22:46:46,464 - INFO - 📝 Video 'Rekomendasi Tempat Makan di Karawang yang Enak dan...' - 2 komentar berhasil diambil
+2025-11-27 22:46:46,724 - INFO - 📝 Video '10 Kuliner Wisata KARAWANG yang Terkenal dan Viral...' - 5 komentar berhasil diambil
+2025-11-27 22:46:46,977 - INFO - 📝 Video '#kulinerindonesia #kulinerviral #viral #kulinerkar...' - 1 komentar berhasil diambil
+2025-11-27 22:46:47,324 - INFO - 📝 Video 'Rekomendasi Tempat Kuliner Enak di Karawang...' - 6 komentar berhasil diambil
+2025-11-27 22:46:47,944 - INFO - 📝 Video 'WOW!!! DARI WARUNG MAKAN KECIL, SEKARANG HALAMAN B...' - 50 komentar berhasil diambil
+2025-11-27 22:46:48,201 - INFO - 📝 Video 'KHAS KARAWANG ‼️WARUNG MAKAN IBU TEDY 88 BEKASI...' - 3 komentar berhasil diambil
+2025-11-27 22:46:48,476 - INFO - 📝 Video 'KULINER KARAWANG - NASI UDUK BELAKANG PASAR KARAWA...' - 9 komentar berhasil diambil
+2025-11-27 22:46:48,758 - INFO - 📝 Video 'Lezatnya Bubur Ayam Cilamaya dari Karawang dengan ...' - 9 komentar berhasil diambil
+2025-11-27 22:46:49,026 - INFO - 📝 Video 'Warung Tuang Karawang || Warung Tepi Sawah Dan Keb...' - 27 komentar berhasil diambil
+2025-11-27 22:46:49,375 - INFO - 📝 Video 'KULINER KARAWANG RM DAN PEMANCINGAN SAUNG MANG AJO...' - 10 komentar berhasil diambil
+2025-11-27 22:46:49,600 - INFO - 📝 Video 'Kuliner Karawang yang Lagi Viral! Warung Tuang, Pu...' - 2 komentar berhasil diambil
+2025-11-27 22:46:49,829 - INFO - 📝 Video 'Wisata kuliner viral di karawang| Warung Tuang Kar...' - 1 komentar berhasil diambil
+2025-11-27 22:46:50,124 - INFO - 📝 Video 'Sate & tongseng andalan warga Karawang!! #food #tr...' - 2 komentar berhasil diambil
+2025-11-27 22:46:50,397 - INFO - 📝 Video 'Perut Mules Makan Mie Jebew Viral Karawang 🔥🔥😘 #cr...' - 14 komentar berhasil diambil
+2025-11-27 22:46:50,627 - INFO - 📝 Video 'Cilok Goang Viral #karawang #kuliner #viral #stree...' - 4 komentar berhasil diambil
+2025-11-27 22:46:50,867 - INFO - 📝 Video '9 Rekomendasi Tempat Makan Di Karawang...' - 6 komentar berhasil diambil
+2025-11-27 22:46:51,131 - INFO - 📝 Video 'Sate Maranggi Enak dan Murah di Karawang #karawang...' - 4 komentar berhasil diambil
+2025-11-27 22:46:51,356 - INFO - 📝 Video 'viral di Karawang wisata kuliner yang adem tempatn...' - 1 komentar berhasil diambil
+2025-11-27 22:46:51,660 - INFO - 📝 Video 'JAGOANNYA KARAWANG!! DESTINASI SEBLAK WAJIB COBAIN...' - 50 komentar berhasil diambil
+2025-11-27 22:46:51,913 - INFO - 📝 Video 'SOP KAKI ENAK #kulinerindonesia #kulinerviral #kul...' - 5 komentar berhasil diambil
+2025-11-27 22:46:52,235 - INFO - 📝 Video 'MENCARI SEBLAK TERENAK DI KARAWANG MANCAPP #NGESHO...' - 50 komentar berhasil diambil
+2025-11-27 22:46:52,606 - INFO - 📝 Video 'KARAWANG GAK ADA MATINYA KALO SOAL SEBLAK MANCAAP...' - 50 komentar berhasil diambil
+2025-11-27 22:46:52,819 - INFO - 📝 Video 'TERBARU!! KAMPUNG KECIL KARAWANG! REKOMENDASI REST...' - 1 komentar berhasil diambil
+2025-11-27 22:46:53,158 - INFO - 📝 Video 'KARAWANG RASA BALI‼️PADEE RESTO & CAFE KARAWANG BA...' - 19 komentar berhasil diambil
+2025-11-27 22:46:53,158 - INFO - ✅ 'kuliner karawang viral': 30 video, 331 komentar (7.8s)
+2025-11-27 22:46:53,162 - INFO - 🔍 Memproses keyword: 'jajanan karawang hits'
+2025-11-27 22:46:53,675 - INFO - 📹 Ditemukan 15 video baru untuk keyword 'jajanan karawang hits'
+2025-11-27 22:46:54,105 - INFO - 📝 Video 'Jajanan Pasar yang Selalu Ngangenin - Kuliner Kara...' - 3 komentar berhasil diambil
+2025-11-27 22:46:54,495 - INFO - 📝 Video 'JAJANAN BOCIL KARAWANG NIH BOS...' - 50 komentar berhasil diambil
+2025-11-27 22:46:54,902 - INFO - 📝 Video 'REKOMENDASI TEMPAT MAIN DAN JAJANAN VIRAL DI KARAW...' - 11 komentar berhasil diambil
+2025-11-27 22:46:55,139 - INFO - 📝 Video 'BAKSO PALING REKOMEN DI KARAWANG #kulinerviral #ba...' - 3 komentar berhasil diambil
+2025-11-27 22:46:55,569 - INFO - 📝 Video 'STREETFOOD DI KARAWANG‼️ GA NYANGKA BANYAK BANGET ...' - 50 komentar berhasil diambil
+2025-11-27 22:46:55,813 - INFO - 📝 Video 'Tempat dan makanan wajib di Karawang, sego ndok mb...' - 1 komentar berhasil diambil
+2025-11-27 22:46:56,049 - INFO - 📝 Video 'WARUNG TUANG KARAWANG‼️SPESIALIS MAKANAN SUNDA YG ...' - 15 komentar berhasil diambil
+2025-11-27 22:46:56,336 - INFO - 📝 Video 'BERBURU JAJANAN HAUCE DI JAJANAN HITS KARAWANG 2 -...' - 9 komentar berhasil diambil
+2025-11-27 22:46:56,573 - INFO - 📝 Video 'KARAWANG KULINER MALAM...' - 2 komentar berhasil diambil
+2025-11-27 22:46:56,953 - INFO - 📝 Video 'Explore Kawasan Kuliner Karawang...' - 42 komentar berhasil diambil
+2025-11-27 22:46:56,953 - INFO - ✅ 'jajanan karawang hits': 15 video, 186 komentar (3.8s)
+2025-11-27 22:46:56,959 - INFO - 🔍 Memproses keyword: 'rekomendasi makanan karawang'
+2025-11-27 22:46:57,253 - INFO - 📹 Ditemukan 6 video baru untuk keyword 'rekomendasi makanan karawang'
+2025-11-27 22:46:57,623 - INFO - 📝 Video 'KARAWANG KULINER MALAM || Rekomendasi Tempat Makan...' - 13 komentar berhasil diambil
+2025-11-27 22:46:57,887 - INFO - 📝 Video 'Warung bebek terendul dikarawang #fypshorts #karaw...' - 1 komentar berhasil diambil
+2025-11-27 22:46:57,888 - INFO - ✅ 'rekomendasi makanan karawang': 6 video, 14 komentar (0.9s)
+2025-11-27 22:46:57,893 - INFO - 🔍 Memproses keyword: 'wisata kuliner karawang'
+2025-11-27 22:46:58,387 - INFO - 📹 Ditemukan 18 video baru untuk keyword 'wisata kuliner karawang'
+2025-11-27 22:46:58,767 - INFO - 📝 Video '50 Ribu Dapat Jajanan Apa Saja di Karawang Kuliner...' - 1 komentar berhasil diambil
+2025-11-27 22:46:59,093 - INFO - 📝 Video 'Pempek Gaby Karawang‼️Rekomendasi Wiskul Karawang‼...' - 50 komentar berhasil diambil
+2025-11-27 22:46:59,408 - INFO - 📝 Video 'WISATA KULINER KARAWANG WARUNG PEPES JAMBAL H. EMI...' - 4 komentar berhasil diambil
+2025-11-27 22:46:59,702 - INFO - 📝 Video 'Rekomendasi Tempat Wisata Kuliner Karawang‼️Bagas ...' - 39 komentar berhasil diambil
+2025-11-27 22:47:00,043 - INFO - 📝 Video 'WARUNG TUANG KARAWANG ll tempat makan viral dengan...' - 6 komentar berhasil diambil
+2025-11-27 22:47:00,432 - INFO - 📝 Video 'WISATA KULINER DI KARAWANG #JALANJALANINDONESIA #K...' - 3 komentar berhasil diambil
+2025-11-27 22:47:00,697 - INFO - 📝 Video 'wisata kuliner Karawang - mencoba sambal khas Garu...' - 36 komentar berhasil diambil
+2025-11-27 22:47:00,927 - INFO - 📝 Video 'WISATA KULINER DI ALUN-ALUN KARAWANG...' - 3 komentar berhasil diambil
+2025-11-27 22:47:01,144 - INFO - 📝 Video 'Wisata kuliner karawang,Rumah makan CIBIUK...' - 7 komentar berhasil diambil
+2025-11-27 22:47:01,380 - INFO - 📝 Video 'Wisata Kuliner Karawang : Rumah Pastel...' - 4 komentar berhasil diambil
+2025-11-27 22:47:01,648 - INFO - 📝 Video 'SAUNG BEUREUM KARAWANG || WISATA KULINER VIRAL DI ...' - 23 komentar berhasil diambil
+2025-11-27 22:47:01,648 - INFO - ✅ 'wisata kuliner karawang': 18 video, 176 komentar (3.8s)
+2025-11-27 22:47:01,651 - INFO - 🔍 Memproses keyword: 'tempat nongkrong karawang'
+2025-11-27 22:47:02,277 - INFO - 📹 Ditemukan 27 video baru untuk keyword 'tempat nongkrong karawang'
+2025-11-27 22:47:02,891 - INFO - 📝 Video 'TEMPAT NONGKRONG TERSEMBUNYI DI KARAWANG!! - Kedai...' - 1 komentar berhasil diambil
+2025-11-27 22:47:03,119 - INFO - 📝 Video '12 Tempat Wisata Karawang yang Lagi Hits...' - 1 komentar berhasil diambil
+2025-11-27 22:47:03,410 - INFO - 📝 Video 'Tempat nongkrong paling ASIK di Karawang !!...' - 50 komentar berhasil diambil
+2025-11-27 22:47:03,611 - INFO - 📝 Video 'Tempat nongkrong di karawang || TAMAN CADAS MALANG...' - 1 komentar berhasil diambil
+2025-11-27 22:47:03,891 - INFO - 📝 Video 'PERWIRA KOPI KARAWANG || GAK PERNAH SEPI PENGUNJUN...' - 20 komentar berhasil diambil
+2025-11-27 22:47:04,121 - INFO - 📝 Video 'Karangpawitan Karawang || Tempat nongkrong Murah...' - 1 komentar berhasil diambil
+2025-11-27 22:47:04,532 - INFO - 📝 Video 'Situ Darwin Kota baru Cikampek ‼️ Tempat nongkrong...' - 18 komentar berhasil diambil
+2025-11-27 22:47:04,777 - INFO - 📝 Video 'Wisata Karawang, Saung coffee HIDEUNG puncak sempu...' - 6 komentar berhasil diambil
+2025-11-27 22:47:05,032 - INFO - 📝 Video 'NONGKI CAFE & RESTO || TEMPAT NONGKRONG DI KARAWAN...' - 11 komentar berhasil diambil
+2025-11-27 22:47:05,272 - INFO - 📝 Video 'Tempat nongkrong di Walahar Karawang nih ngab 😁 su...' - 1 komentar berhasil diambil
+2025-11-27 22:47:05,499 - INFO - 📝 Video 'TAMAN KECAMATAN CIKAMPEK || Bakal Jadi tempat nong...' - 14 komentar berhasil diambil
+2025-11-27 22:47:05,717 - INFO - 📝 Video 'REVIEW RESTO BENDA KARAWANG | TEMPAT NONGKRONG DI ...' - 5 komentar berhasil diambil
+2025-11-27 22:47:05,967 - INFO - 📝 Video 'SHANS JUICE KARAWANG || TEMPAT NONGKRONG KEKINIAN ...' - 15 komentar berhasil diambil
+2025-11-27 22:47:06,196 - INFO - 📝 Video 'POTENCIAL LOCAL - ALUN-ALUN KARAWANG | TEMPAT NONG...' - 1 komentar berhasil diambil
+2025-11-27 22:47:06,604 - INFO - 📝 Video 'Tempat Nongkrong "HUTAN KERTAS" Di Kota Karawang...' - 41 komentar berhasil diambil
+2025-11-27 22:47:06,848 - INFO - 📝 Video 'GEMERLAP MALAM DI KOTA KARAWANG,COCOK UNTUK NONGKR...' - 10 komentar berhasil diambil
+2025-11-27 22:47:07,110 - INFO - 📝 Video 'TEMPAT NONGKRONG ASIK DI KARAWANG - REVIEW SKY GAR...' - 2 komentar berhasil diambil
+2025-11-27 22:47:07,557 - INFO - 📝 Video '15 Tempat Wisata di Karawang yang Hits, Terbaru da...' - 26 komentar berhasil diambil
+2025-11-27 22:47:07,862 - INFO - 📝 Video 'wisata alam kabupaten Karawang 🇮🇩wonderful Indones...' - 11 komentar berhasil diambil
+2025-11-27 22:47:08,139 - INFO - 📝 Video 'Daff_VLOG||Review tempat nongkrong di daerah karaw...' - 6 komentar berhasil diambil
+2025-11-27 22:47:08,139 - INFO - ✅ 'tempat nongkrong karawang': 27 video, 241 komentar (6.5s)
+2025-11-27 22:47:08,144 - INFO - 🔍 Memproses keyword: 'hidden gem karawang'
+2025-11-27 22:47:08,660 - INFO - 📹 Ditemukan 28 video baru untuk keyword 'hidden gem karawang'
+2025-11-27 22:47:08,991 - INFO - 📝 Video 'HIDDEN GEM! #kulinerindonesia #kulinerviral #kulin...' - 5 komentar berhasil diambil
+2025-11-27 22:47:09,207 - INFO - 📝 Video 'Wisata Baru & Tersembunyi di karawang nih 🥰 #wisat...' - 5 komentar berhasil diambil
+2025-11-27 22:47:09,554 - INFO - 📝 Video 'HIDDEM GEM Cafe dan Resto DI KARAWANG Resto Benda ...' - 6 komentar berhasil diambil
+2025-11-27 22:47:09,763 - INFO - 📝 Video 'HIDDEN GEM PANGSIT DI KARAWANG...' - 1 komentar berhasil diambil
+2025-11-27 22:47:09,982 - INFO - 📝 Video 'STAYCATION DI HIDDEN GEM KARAWANG! DAERAH PABRIK-P...' - 1 komentar berhasil diambil
+2025-11-27 22:47:10,470 - INFO - 📝 Video 'Numa Numa Garden Cafe | Hidden Gem di Karawang | W...' - 1 komentar berhasil diambil
+2025-11-27 22:47:10,699 - INFO - 📝 Video 'HIDDEN GEM KARAWANG || REVIEW CAFE RESTORAN NUMA N...' - 1 komentar berhasil diambil
+2025-11-27 22:47:10,919 - INFO - 📝 Video 'Hidden Gem Jajanan Karawang #slebew #hiddengem #go...' - 1 komentar berhasil diambil
+2025-11-27 22:47:11,150 - INFO - 📝 Video 'Hidden Gem: Taman Bermain Anak di Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:47:11,151 - INFO - ✅ 'hidden gem karawang': 28 video, 22 komentar (3.0s)
+2025-11-27 22:47:11,156 - INFO - 🔍 Memproses keyword: 'street food karawang'
+2025-11-27 22:47:11,699 - INFO - 📹 Ditemukan 14 video baru untuk keyword 'street food karawang'
+2025-11-27 22:47:12,884 - INFO - 📝 Video 'JAJAN APA AJA DI JFK 2024 .. UDAH PADA KESINI LOM?...' - 50 komentar berhasil diambil
+2025-11-27 22:47:13,371 - INFO - 📝 Video 'BOLEH DIADU!! SEBLAK RC KARAWANG YANG GAK PERNAH S...' - 50 komentar berhasil diambil
+2025-11-27 22:47:13,664 - INFO - 📝 Video 'GADO GADO PALING ENAK - KULINER KARAWANG (GADO GAD...' - 16 komentar berhasil diambil
+2025-11-27 22:47:13,898 - INFO - 📝 Video 'Blusukan Kawasan Pecinan Chinatown Jakarta Pancora...' - 15 komentar berhasil diambil
+2025-11-27 22:47:14,153 - INFO - 📝 Video '“Cita Rasa Kuliner Sunda Autentik di Karawang : St...' - 1 komentar berhasil diambil
+2025-11-27 22:47:14,566 - INFO - 📝 Video 'JAJANAN SD LAGI TAPI DIKARAWANG GESS...' - 50 komentar berhasil diambil
+2025-11-27 22:47:14,775 - INFO - 📝 Video 'Street Food @frontoneakshayahotelkarawa6443 Dijami...' - 6 komentar berhasil diambil
+2025-11-27 22:47:15,017 - INFO - 📝 Video 'Seafood Karawang Street Food MURAH ENAK 🤑...' - 4 komentar berhasil diambil
+2025-11-27 22:47:15,378 - INFO - 📝 Video 'KARAWANG STREET FOOD || JAJANAN HITS ANAK SEKOLAHA...' - 16 komentar berhasil diambil
+2025-11-27 22:47:15,598 - INFO - 📝 Video 'MARTABAK MINI RAOS KARAWANG #kuliner #kulinerkaraw...' - 1 komentar berhasil diambil
+2025-11-27 22:47:16,002 - INFO - 📝 Video 'Review Kuliner di Pekan Raya Karawang 2022, Korean...' - 8 komentar berhasil diambil
+2025-11-27 22:47:16,216 - INFO - 📝 Video 'Rekomendasi Pecel Madiun di Karawang! #food #trave...' - 2 komentar berhasil diambil
+2025-11-27 22:47:16,611 - INFO - 📝 Video 'SOTO TANGKAR TERENAK DI KARAWANG...' - 14 komentar berhasil diambil
+2025-11-27 22:47:16,612 - INFO - ✅ 'street food karawang': 14 video, 233 komentar (5.5s)
+2025-11-27 22:47:16,616 - INFO - 🔍 Memproses keyword: 'makanan pedas karawang'
+2025-11-27 22:47:17,164 - INFO - 📹 Ditemukan 18 video baru untuk keyword 'makanan pedas karawang'
+2025-11-27 22:47:17,478 - INFO - 📝 Video 'bakso jeletet tambah cabe rawit🤤(cr: Nenty Garut k...' - 1 komentar berhasil diambil
+2025-11-27 22:47:18,024 - INFO - 📝 Video 'RATU CABE KARAWANG MUKBANG SADIS SAMBEL KITA BY OM...' - 50 komentar berhasil diambil
+2025-11-27 22:47:18,577 - INFO - 📝 Video 'JAJAN SERBA PEDES DI CENGKARENG JAKARTA BARAT LORD...' - 50 komentar berhasil diambil
+2025-11-27 22:47:18,892 - INFO - 📝 Video 'mukbang cabe super pedas ala ratu cabe 🥵 🤤...' - 50 komentar berhasil diambil
+2025-11-27 22:47:19,134 - INFO - 📝 Video 'Kuliner Karawang ⁉️#fyp #viralvideo #shorts #warun...' - 1 komentar berhasil diambil
+2025-11-27 22:47:19,569 - INFO - 📝 Video 'KESEDAK CABE BENDOT,PEDESNYA UWIW UWIW #mukbang #v...' - 50 komentar berhasil diambil
+2025-11-27 22:47:19,884 - INFO - 📝 Video 'BAHAYA! MIE JEBEW BASO ACI CIRAMBAY LEVEL TERTINGG...' - 50 komentar berhasil diambil
+2025-11-27 22:47:20,140 - INFO - 📝 Video '#karawang #shortvideo #enak #kuliner #dengkul#ceke...' - 2 komentar berhasil diambil
+2025-11-27 22:47:20,589 - INFO - 📝 Video 'Warga Bekasi Memperebutkan Beef Enoki Ini. Ternyat...' - 50 komentar berhasil diambil
+2025-11-27 22:47:20,902 - INFO - 📝 Video 'BORONG SEMUA JAJANAN PEDES EDISI RENGASDENGKLOK KA...' - 50 komentar berhasil diambil
+2025-11-27 22:47:21,243 - INFO - 📝 Video 'PEDAS BERUTAL, MIE AYAM PEDAS BAWANG JAHAT EXTRA C...' - 50 komentar berhasil diambil
+2025-11-27 22:47:21,789 - INFO - 📝 Video 'bakso lava pedas 🔥Bakso ShantyDenny #shantydenny #...' - 50 komentar berhasil diambil
+2025-11-27 22:47:22,087 - INFO - 📝 Video 'MAKAN BAKSO MALAM #mukbang #bakso #viral...' - 50 komentar berhasil diambil
+2025-11-27 22:47:22,833 - INFO - 📝 Video 'Kaget juga di Jakarta ada Alaskan King Crab sebesa...' - 50 komentar berhasil diambil
+2025-11-27 22:47:23,244 - INFO - 📝 Video 'KULINER KARAWANG - MAKAN MIE TERPEDAS DI KARAWANG ...' - 9 komentar berhasil diambil
+2025-11-27 22:47:23,569 - INFO - 📝 Video 'Mie ayam enak di kawasan pulogadung jakarta timur ...' - 50 komentar berhasil diambil
+2025-11-27 22:47:23,570 - INFO - ✅ 'makanan pedas karawang': 18 video, 613 komentar (7.0s)
+2025-11-27 22:47:23,576 - INFO - 🔍 Memproses keyword: 'bakso enak di karawang'
+2025-11-27 22:47:24,432 - INFO - 📹 Ditemukan 32 video baru untuk keyword 'bakso enak di karawang'
+2025-11-27 22:47:24,879 - INFO - 📝 Video 'BAKSO PALING ENAK DI KARAWANG...' - 35 komentar berhasil diambil
+2025-11-27 22:47:25,346 - INFO - 📝 Video 'BAKSO SEGEDE KEPALA BAYI DI KARAWANG!!...' - 50 komentar berhasil diambil
+2025-11-27 22:47:25,611 - INFO - 📝 Video 'Luarr BIASA !! BAKSO RAKSASA KARAWANG, Baru BUKA B...' - 5 komentar berhasil diambil
+2025-11-27 22:47:25,911 - INFO - 📝 Video 'MIE BASO PINGGIR JALAN KARAWANG || PORSI BANYAK GA...' - 21 komentar berhasil diambil
+2025-11-27 22:47:26,239 - INFO - 📝 Video 'Bakso Jumbo Isi Daging Sebesar Ini Cuma 10rban 😅, ...' - 50 komentar berhasil diambil
+2025-11-27 22:47:26,448 - INFO - 📝 Video 'Bakso urat paling enak di Karawang ,,,kuahnya guri...' - 1 komentar berhasil diambil
+2025-11-27 22:47:26,706 - INFO - 📝 Video 'SURGANYA BAKSO TETELAN DI KARAWANG!!!...' - 10 komentar berhasil diambil
+2025-11-27 22:47:27,054 - INFO - 📝 Video 'Bakso urat pembelinya sampai antri banyak #shorts ...' - 50 komentar berhasil diambil
+2025-11-27 22:47:27,282 - INFO - 📝 Video 'Kuliner bakso urat dan iga di karawang bakso kober...' - 7 komentar berhasil diambil
+2025-11-27 22:47:27,495 - INFO - 📝 Video 'Bakso Malang Harum Murah Enak Banyak - Kuliner Kar...' - 1 komentar berhasil diambil
+2025-11-27 22:47:27,701 - INFO - 📝 Video 'Bakso Gerobakan Super Jumbo Pasar Baru Karawang #S...' - 2 komentar berhasil diambil
+2025-11-27 22:47:28,048 - INFO - 📝 Video 'Bakso Tetelan Super !!! Bakso Legend Dari Karawang...' - 50 komentar berhasil diambil
+2025-11-27 22:47:28,422 - INFO - 📝 Video 'BAKSO SEPUASNYA 13 RB DI BEKASI ! #kuliner #street...' - 50 komentar berhasil diambil
+2025-11-27 22:47:28,680 - INFO - 📝 Video 'Beli Bakso urat, supeerr murah dan super enak, || ...' - 5 komentar berhasil diambil
+2025-11-27 22:47:28,942 - INFO - 📝 Video 'Bakso 9 bulan di karawang 😂 karna lagi abis yg 9 b...' - 1 komentar berhasil diambil
+2025-11-27 22:47:29,381 - INFO - 📝 Video 'Kuliner Viral Bakso Buntel Kang Nana Karawang #161...' - 8 komentar berhasil diambil
+2025-11-27 22:47:29,682 - INFO - 📝 Video 'BAKSO BAKAR JUMBO VIRAL ‼️SUDAH ADA 3 CABANG DI KA...' - 34 komentar berhasil diambil
+2025-11-27 22:47:29,892 - INFO - 📝 Video 'Bakso enak di karawang, street food...' - 2 komentar berhasil diambil
+2025-11-27 22:47:30,166 - INFO - 📝 Video 'BAKSO & MIE AYAM, KOTA PADI || KARAWANG, Bakso Ura...' - 4 komentar berhasil diambil
+2025-11-27 22:47:30,414 - INFO - 📝 Video 'BAKSO PUTRA VIRAL PAKE NO ANTRIAN ‼️ #shorts...' - 8 komentar berhasil diambil
+2025-11-27 22:47:30,883 - INFO - 📝 Video 'MAKAN DISINI BISA DIBUNGKUS | Bakso Rusuk Joss #sh...' - 50 komentar berhasil diambil
+2025-11-27 22:47:31,142 - INFO - 📝 Video 'Bakso Legend Di Karawang #kuliner #shorts #viral #...' - 1 komentar berhasil diambil
+2025-11-27 22:47:31,357 - INFO - 📝 Video 'Bakso Cheese Bom sudah tersedia di Bakso Rusuk Jos...' - 2 komentar berhasil diambil
+2025-11-27 22:47:31,585 - INFO - 📝 Video 'Bakso enak di karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:47:31,908 - INFO - 📝 Video 'Bakso Gluduk 60rb 1 porsi💯🤩#garagaragina #viral #k...' - 50 komentar berhasil diambil
+2025-11-27 22:47:32,526 - INFO - 📝 Video 'Salah satu Bakso paling enak di Jakarta...' - 50 komentar berhasil diambil
+2025-11-27 22:47:32,850 - INFO - 📝 Video 'Bakso Cabe Rawit🧆🔥🌶 (Meatballs & Green Chili) Comp...' - 50 komentar berhasil diambil
+2025-11-27 22:47:32,851 - INFO - ✅ 'bakso enak di karawang': 32 video, 598 komentar (9.3s)
+2025-11-27 22:47:32,856 - INFO - 🔍 Memproses keyword: 'mie ayam karawang legendaris'
+2025-11-27 22:47:33,380 - INFO - 📹 Ditemukan 30 video baru untuk keyword 'mie ayam karawang legendaris'
+2025-11-27 22:47:34,099 - INFO - 📝 Video 'Mie Ayam Legendaris BSI - Kuliner Karawang...' - 2 komentar berhasil diambil
+2025-11-27 22:47:34,388 - INFO - 📝 Video 'JUALAN SEJAK 1984, SEHARI LUDES 11KG MIE! | REVIEW...' - 8 komentar berhasil diambil
+2025-11-27 22:47:34,636 - INFO - 📝 Video 'Mie Ayam Sunter Tapi di Karawang - Kuliner Karawan...' - 3 komentar berhasil diambil
+2025-11-27 22:47:35,047 - INFO - 📝 Video 'Kuliner Karawang ‼️‼️ Mie Ayam Mas Dafa || Jembata...' - 4 komentar berhasil diambil
+2025-11-27 22:47:35,288 - INFO - 📝 Video 'GOKIL Mie Ayam Enak Legendaris Karawang || Mie Aya...' - 6 komentar berhasil diambil
+2025-11-27 22:47:35,532 - INFO - 📝 Video 'Di Karawang Sarapan Mie Ayam Porsi Jumbo👍...' - 3 komentar berhasil diambil
+2025-11-27 22:47:35,736 - INFO - 📝 Video 'Toping ayam ekstra,, mukbang mie ayam jumbo specia...' - 1 komentar berhasil diambil
+2025-11-27 22:47:35,953 - INFO - 📝 Video 'MIE AYAM ACING LEGENDARIS GROGOL #JNK40...' - 2 komentar berhasil diambil
+2025-11-27 22:47:36,207 - INFO - 📝 Video 'Mie Ayam Legend Enak Di Karawang #kuliner #shorts ...' - 2 komentar berhasil diambil
+2025-11-27 22:47:36,463 - INFO - 📝 Video 'Mie ayam Coet Spesial || Lada hitam || Tunggak Jat...' - 8 komentar berhasil diambil
+2025-11-27 22:47:36,694 - INFO - 📝 Video 'MIE AYAM LEGENDARIS DARI TAHUN 78 !! INDONESIAN ST...' - 3 komentar berhasil diambil
+2025-11-27 22:47:36,928 - INFO - 📝 Video 'Mie ayam viral di karawang #videolucubikinngakakte...' - 1 komentar berhasil diambil
+2025-11-27 22:47:37,181 - INFO - 📝 Video 'Mie Ayam Legendaris "Gondangdia" Dari Tahun 1968...' - 8 komentar berhasil diambil
+2025-11-27 22:47:37,425 - INFO - 📝 Video 'mie ayam baso COET,tunggak jati,karawang....' - 1 komentar berhasil diambil
+2025-11-27 22:47:37,721 - INFO - 📝 Video '5 Mie Ayam LEGENDARIS Part 1 | Perut KOSONG...' - 50 komentar berhasil diambil
+2025-11-27 22:47:37,955 - INFO - 📝 Video 'Mie Ayam Sunter @Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:47:38,199 - INFO - 📝 Video 'Viral! Mie Ayam dengan Toping Ayam Melimpah 😍 Terl...' - 40 komentar berhasil diambil
+2025-11-27 22:47:38,411 - INFO - 📝 Video 'Bakmie karet karawang #bakmie...' - 1 komentar berhasil diambil
+2025-11-27 22:47:38,697 - INFO - 📝 Video 'BAKMIE LEGEND USIANYA SUDAH 100 TAHUN!!...' - 50 komentar berhasil diambil
+2025-11-27 22:47:39,057 - INFO - 📝 Video 'MIE AYAM GONDANGDIA BAKMI HALAL LEGENDARIS!! AWET ...' - 10 komentar berhasil diambil
+2025-11-27 22:47:39,057 - INFO - ✅ 'mie ayam karawang legendaris': 30 video, 204 komentar (6.2s)
+2025-11-27 22:47:39,060 - INFO - 🔍 Memproses keyword: 'seblak karawang viral'
+2025-11-27 22:47:39,548 - INFO - 📹 Ditemukan 26 video baru untuk keyword 'seblak karawang viral'
+2025-11-27 22:47:40,173 - INFO - 📝 Video 'Cewek-cewek Karawang kena anemia karena sering mak...' - 50 komentar berhasil diambil
+2025-11-27 22:47:40,577 - INFO - 📝 Video 'Ramdhan Raka Menjajal Pedas Nikmat Seblak Prasmana...' - 7 komentar berhasil diambil
+2025-11-27 22:47:40,816 - INFO - 📝 Video 'Seblak yang lagi viral diperbatasan karawang dan c...' - 18 komentar berhasil diambil
+2025-11-27 22:47:41,045 - INFO - 📝 Video 'SEBLAK RAJUNGAN🦀 #kulinerindonesia #kulinerkarawan...' - 1 komentar berhasil diambil
+2025-11-27 22:47:41,482 - INFO - 📝 Video 'NGANTRI 2 JAM DEMI SEBLAK PRASMANAN LEVEL 4 CENTON...' - 50 komentar berhasil diambil
+2025-11-27 22:47:41,724 - INFO - 📝 Video 'jajan seblak‼️viral teh windy Karawang, prasmanan ...' - 1 komentar berhasil diambil
+2025-11-27 22:47:41,951 - INFO - 📝 Video 'Seblak Prasmanan viral di karawang...' - 2 komentar berhasil diambil
+2025-11-27 22:47:42,211 - INFO - 📝 Video 'LEBIH ENAK DARI YG VIRALLL‼️SEBLAK BANDUNG SLOWDOW...' - 4 komentar berhasil diambil
+2025-11-27 22:47:43,065 - INFO - 📝 Video 'Seblak Prasmanan TERENAK se Karawang??!!!...' - 24 komentar berhasil diambil
+2025-11-27 22:47:43,323 - INFO - 📝 Video 'PELOPOR SEBLAK LOBSTER PERTAMA DI CIKAMPEK || KARA...' - 12 komentar berhasil diambil
+2025-11-27 22:47:43,553 - INFO - 📝 Video 'Cobain Seblak Viral yang Artis suka makan. Seblak ...' - 1 komentar berhasil diambil
+2025-11-27 22:47:43,759 - INFO - 📝 Video 'Seblak RC Karawang #kulinerviral #seblak #seblaken...' - 1 komentar berhasil diambil
+2025-11-27 22:47:43,990 - INFO - 📝 Video 'Cerita Teh Windy Soal Usaha Jualan Seblak | PAGI P...' - 5 komentar berhasil diambil
+2025-11-27 22:47:44,284 - INFO - 📝 Video 'SEBLAK PALING RAME SE-TANGERANG .. KATANYA BANYAK ...' - 50 komentar berhasil diambil
+2025-11-27 22:47:44,630 - INFO - 📝 Video 'SEBLAK KARAWANG LAGI GUYS...' - 50 komentar berhasil diambil
+2025-11-27 22:47:44,848 - INFO - 📝 Video 'Seblak Rel Karawang | Eat'Em Out (Karawang Kuliner...' - 6 komentar berhasil diambil
+2025-11-27 22:47:45,108 - INFO - 📝 Video 'SEBLAK PRASMANAN VIRAL PALING RAMAI ‼️ #shorts...' - 5 komentar berhasil diambil
+2025-11-27 22:47:45,371 - INFO - 📝 Video 'SEBLAK VIRAL‼️ TEHWINDY KARAWANG...' - 1 komentar berhasil diambil
+2025-11-27 22:47:45,694 - INFO - 📝 Video 'SEBLAK VIRAL PALING MEDOK, GAK PELIT BUMBU!!! DALA...' - 50 komentar berhasil diambil
+2025-11-27 22:47:45,919 - INFO - 📝 Video 'Seblak RC Karawang Bikin Lidah Bergoyang Konsep Pr...' - 2 komentar berhasil diambil
+2025-11-27 22:47:45,919 - INFO - ✅ 'seblak karawang viral': 26 video, 340 komentar (6.9s)
+2025-11-27 22:47:45,924 - INFO - 🔍 Memproses keyword: 'sate maranggi karawang'
+2025-11-27 22:47:46,628 - INFO - 📹 Ditemukan 29 video baru untuk keyword 'sate maranggi karawang'
+2025-11-27 22:47:47,003 - INFO - 📝 Video 'Sate Maranggi Hj Mumun Karawang | Salah Satu Rekom...' - 1 komentar berhasil diambil
+2025-11-27 22:47:47,349 - INFO - 📝 Video 'KULINER KARAWANG - SATE MARANGGI 3000 TUSUK PER HA...' - 12 komentar berhasil diambil
+2025-11-27 22:47:47,662 - INFO - 📝 Video 'SATE MARANGGI ENAK DI KARAWANG, MURAH, BANYAK, NIK...' - 8 komentar berhasil diambil
+2025-11-27 22:47:47,918 - INFO - 📝 Video 'SATE MARANGGI INI PALING ENAK - KULINER KARAWANG...' - 17 komentar berhasil diambil
+2025-11-27 22:47:48,309 - INFO - 📝 Video 'SEHARI LAKU 5000 TUSUK!! SAMPE NAMBAH SAKING ENAKN...' - 50 komentar berhasil diambil
+2025-11-27 22:47:48,586 - INFO - 📝 Video 'LOKASI WARUNG SATE MARANGGI KARAWANG TIMUR - KLARI...' - 28 komentar berhasil diambil
+2025-11-27 22:47:49,067 - INFO - 📝 Video 'Info wisata kuliner Karawang | Sate Maranggi Hj. M...' - 20 komentar berhasil diambil
+2025-11-27 22:47:49,287 - INFO - 📝 Video 'KARAWANG : JUMBO PISAN KIKIL GAJAH RICA-RICA & SAT...' - 1 komentar berhasil diambil
+2025-11-27 22:47:49,494 - INFO - 📝 Video 'SATE MARANGGI HJ MUMUN KARAWANG, ENAK DAN MURAH..!...' - 0 komentar berhasil diambil
+2025-11-27 22:47:49,781 - INFO - 📝 Video 'Iga bakar dan sate Maranggi kebun kosong,,harganya...' - 3 komentar berhasil diambil
+2025-11-27 22:47:50,067 - INFO - 📝 Video 'Sate Maranggi morohmoy || Wadas,lemah Abang | Kara...' - 11 komentar berhasil diambil
+2025-11-27 22:47:50,607 - INFO - 📝 Video 'SATE MARANGGI KARAWANG #holidaywithshorts #ngeshor...' - 13 komentar berhasil diambil
+2025-11-27 22:47:50,926 - INFO - 📝 Video 'Restoran TERLUAS kah? Sate Maranggi Haji Yetty...' - 50 komentar berhasil diambil
+2025-11-27 22:47:51,160 - INFO - 📝 Video 'RP14 RIBU DAPET SATE 10 TUSUK!!! SATE MARANGGI PAL...' - 4 komentar berhasil diambil
+2025-11-27 22:47:51,399 - INFO - 📝 Video 'Icip lezatnya sate maranggi khas Karawang | SISI L...' - 1 komentar berhasil diambil
+2025-11-27 22:47:51,617 - INFO - 📝 Video 'Kuliner karawang Terkenal 2022 Sate Maranggi 30% l...' - 4 komentar berhasil diambil
+2025-11-27 22:47:51,848 - INFO - 📝 Video 'Review Kedai Sate Maranggi Dan Sop Sapi Ummi Veran...' - 2 komentar berhasil diambil
+2025-11-27 22:47:52,067 - INFO - 📝 Video 'sehari habis 20kg daging! ini dia sate Maranggi le...' - 1 komentar berhasil diambil
+2025-11-27 22:47:52,310 - INFO - 📝 Video 'Saung sate Maranggi Mak UU" #viral #2023 #2023 #in...' - 2 komentar berhasil diambil
+2025-11-27 22:47:52,568 - INFO - 📝 Video 'sate maranggi Hj. Mumun kuliner Karawang...' - 5 komentar berhasil diambil
+2025-11-27 22:47:52,568 - INFO - ✅ 'sate maranggi karawang': 29 video, 233 komentar (6.6s)
+2025-11-27 22:47:52,571 - INFO - 🔍 Memproses keyword: 'seafood karawang murah'
+2025-11-27 22:47:53,063 - INFO - 📹 Ditemukan 28 video baru untuk keyword 'seafood karawang murah'
+2025-11-27 22:47:53,455 - INFO - 📝 Video 'Seafood Murah Tapi Banyak ??? - Makanan Seafood Te...' - 6 komentar berhasil diambil
+2025-11-27 22:47:53,689 - INFO - 📝 Video 'Borong Seafood Murah di Pelelangan Ikan Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:47:53,935 - INFO - 📝 Video 'seafood kiloan murah ,enak👍👍👍👍|| seafood teh empop...' - 22 komentar berhasil diambil
+2025-11-27 22:47:54,167 - INFO - 📝 Video 'Mantaaapp!! Seafood kiloan Teh Mpop - kuliner Kara...' - 2 komentar berhasil diambil
+2025-11-27 22:47:54,405 - INFO - 📝 Video 'MURAH ATAU MAHAL? SEAFOOD TERAMAI DISINI!...' - 8 komentar berhasil diambil
+2025-11-27 22:47:54,639 - INFO - 📝 Video '#kulinerhits #kulinerindonesia #kulinerviral #kuli...' - 5 komentar berhasil diambil
+2025-11-27 22:47:54,912 - INFO - 📝 Video 'SEAFOOD KILOAN TEH EMPOP KARAWANG |KULINER KARAWAN...' - 15 komentar berhasil diambil
+2025-11-27 22:47:55,140 - INFO - 📝 Video 'HARGA MULAI 10RIBUANNN AJAA‼️ KEDAI SEAFOOD WAKWAW...' - 2 komentar berhasil diambil
+2025-11-27 22:47:55,487 - INFO - 📝 Video 'SEAFOOD KILOAN TEH MPOP KULINER KARAWANG VIRAL | E...' - 3 komentar berhasil diambil
+2025-11-27 22:47:55,706 - INFO - 📝 Video '[Kuliner Karawang] Ratu Galuh Seafood ala Kapal La...' - 3 komentar berhasil diambil
+2025-11-27 22:47:55,951 - INFO - 📝 Video 'SEAFOOD TEH EMPOP KARAWANG #shorts...' - 4 komentar berhasil diambil
+2025-11-27 22:47:56,179 - INFO - 📝 Video 'KULINER SEAFOOD TERENAK DAN MURAH,SEAFOOD TEH EMPO...' - 4 komentar berhasil diambil
+2025-11-27 22:47:56,741 - INFO - 📝 Video 'Seafood terenak di Karawang, seafood Wakwaw...' - 1 komentar berhasil diambil
+2025-11-27 22:47:57,069 - INFO - 📝 Video 'MIX SEAFOOD DISISINI CUMA 25K AJA, INI DI KARAWANG...' - 1 komentar berhasil diambil
+2025-11-27 22:47:57,319 - INFO - 📝 Video 'MAKAN SEAFOOD DI MUARA BARU JAKARTA UTARA...' - 47 komentar berhasil diambil
+2025-11-27 22:47:57,554 - INFO - 📝 Video 'seafood mentahan murah di cikarang lokasi cifest 0...' - 1 komentar berhasil diambil
+2025-11-27 22:47:57,763 - INFO - 📝 Video 'Makan SeaFood Yang Viral Di Karawang #shorts...' - 1 komentar berhasil diambil
+2025-11-27 22:47:57,995 - INFO - 📝 Video 'SEAFOOD MURAH DI KARAWANG...' - 1 komentar berhasil diambil
+2025-11-27 22:47:58,229 - INFO - 📝 Video 'SEAFOOD PALING ENAK DI KARAWANG...' - 6 komentar berhasil diambil
+2025-11-27 22:47:58,439 - INFO - 📝 Video 'harga mulai 10rb , seafood murah di cikarang...' - 1 komentar berhasil diambil
+2025-11-27 22:47:58,640 - INFO - 📝 Video 'Melahap Aneka Seafood Murah Enak di Jakarta Utara...' - 1 komentar berhasil diambil
+2025-11-27 22:47:58,880 - INFO - 📝 Video 'Kuliner Murah Mall #kuliner #menusimple #idejualan...' - 2 komentar berhasil diambil
+2025-11-27 22:47:58,880 - INFO - ✅ 'seafood karawang murah': 28 video, 137 komentar (6.3s)
+2025-11-27 22:47:58,886 - INFO - 🔍 Memproses keyword: 'nasgor karawang enak'
+2025-11-27 22:47:59,146 - INFO - 📹 Ditemukan 30 video baru untuk keyword 'nasgor karawang enak'
+2025-11-27 22:47:59,503 - INFO - 📝 Video 'nasi goreng ter enak di karawang...' - 4 komentar berhasil diambil
+2025-11-27 22:47:59,744 - INFO - 📝 Video 'Nasi Goreng Chef Cun - Cun Johar Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:47:59,989 - INFO - 📝 Video 'Nasi Goreng Chef Cun Cun Karawang...' - 2 komentar berhasil diambil
+2025-11-27 22:48:00,216 - INFO - 📝 Video 'TEMPAT NASI GORENG TERSIBUK DI KARAWANG ⁉️⁉️⁉️...' - 5 komentar berhasil diambil
+2025-11-27 22:48:00,518 - INFO - 📝 Video 'Nasi Goreng ala Chef tapi gerobakan!! #creativeche...' - 50 komentar berhasil diambil
+2025-11-27 22:48:00,728 - INFO - 📝 Video 'Nasi Goreng Chef Cun Cun Karawang #Shorts...' - 1 komentar berhasil diambil
+2025-11-27 22:48:01,263 - INFO - 📝 Video 'BRUTAL BANGET NASI GORENG INI TOPPINGNYA GAK ABIS-...' - 50 komentar berhasil diambil
+2025-11-27 22:48:01,461 - INFO - 📝 Video 'NASI GORENG SEBLAK || TEMU TAWA COFFEE & RESTO #ka...' - 2 komentar berhasil diambil
+2025-11-27 22:48:01,730 - INFO - 📝 Video 'Nasi Goreng Viral - Nasi Goreng Chef Cun-Cun (Kuli...' - 21 komentar berhasil diambil
+2025-11-27 22:48:01,985 - INFO - 📝 Video 'Nasi Goreng Chef Cun Cun Cab. Niaga Karawang #Shor...' - 1 komentar berhasil diambil
+2025-11-27 22:48:02,247 - INFO - 📝 Video 'NASI GORENG ENAK DI JAKARTA SELATAN | FRIED RICE |...' - 11 komentar berhasil diambil
+2025-11-27 22:48:02,695 - INFO - 📝 Video 'Bumbu wajib yang harus distock dirumah #rizkilunca...' - 50 komentar berhasil diambil
+2025-11-27 22:48:03,045 - INFO - 📝 Video 'Nasi Goreng Kampung - Nasi goreng jadul yang dimas...' - 50 komentar berhasil diambil
+2025-11-27 22:48:03,298 - INFO - 📝 Video 'Nasi goreng babat legend...' - 1 komentar berhasil diambil
+2025-11-27 22:48:03,535 - INFO - 📝 Video 'NASI GORENG KAMBING BHADUD SIDAMULYA KARAWANG || K...' - 10 komentar berhasil diambil
+2025-11-27 22:48:03,779 - INFO - 📝 Video 'NASI GORENG RENDANG 456. Nasi Goreng Terinovatif d...' - 11 komentar berhasil diambil
+2025-11-27 22:48:04,206 - INFO - 📝 Video 'nasi goreng babat semarang #streetfood #food #visi...' - 50 komentar berhasil diambil
+2025-11-27 22:48:04,450 - INFO - 📝 Video 'NASGOR LEGEND JUALAN DARI HARGA Rp 500 [NASGOR ENA...' - 4 komentar berhasil diambil
+2025-11-27 22:48:04,703 - INFO - 📝 Video 'HUGE Cook BEst Nasi Goreng Gila OBAMA!!! Famous ja...' - 27 komentar berhasil diambil
+2025-11-27 22:48:04,934 - INFO - 📝 Video 'Nasi goreng paling enak di Karawang pinggir hotel ...' - 1 komentar berhasil diambil
+2025-11-27 22:48:05,145 - INFO - 📝 Video 'Nasi goreng enak...' - 1 komentar berhasil diambil
+2025-11-27 22:48:06,133 - INFO - 📝 Video 'Sekali masak langsung 100 porsi!!! Nasgor kambing ...' - 50 komentar berhasil diambil
+2025-11-27 22:48:06,417 - INFO - 📝 Video 'Terekam CCTV, Aksi 2 Pria Mabuk Menghajar Pedagang...' - 11 komentar berhasil diambil
+2025-11-27 22:48:06,418 - INFO - ✅ 'nasgor karawang enak': 30 video, 414 komentar (7.5s)
+2025-11-27 22:48:06,423 - INFO - 🔍 Memproses keyword: 'bubur ayam karawang'
+2025-11-27 22:48:06,730 - INFO - 📹 Ditemukan 29 video baru untuk keyword 'bubur ayam karawang'
+2025-11-27 22:48:07,112 - INFO - 📝 Video 'Bubur Ayam Khas Karawang #kuliner...' - 4 komentar berhasil diambil
+2025-11-27 22:48:07,400 - INFO - 📝 Video 'Bubur Ayam mas Santoso || Depan Kamila grosir, Pak...' - 3 komentar berhasil diambil
+2025-11-27 22:48:07,645 - INFO - 📝 Video 'Bubur ayam terenak di Karawang #buburayamcilamaya...' - 1 komentar berhasil diambil
+2025-11-27 22:48:07,876 - INFO - 📝 Video 'DI KARAWANG BUBUR AYAM NYA BEGINI KAH ? BUBUR AYAM...' - 9 komentar berhasil diambil
+2025-11-27 22:48:08,131 - INFO - 📝 Video 'RESEP BUBUR AYAM KHAS CILAMAYA...' - 12 komentar berhasil diambil
+2025-11-27 22:48:08,351 - INFO - 📝 Video 'Bubur ayam terenak di Cikarang #kuliner #kulinerci...' - 3 komentar berhasil diambil
+2025-11-27 22:48:08,583 - INFO - 📝 Video 'BUBUR AYAM BARITO, SEHARI BISA 1000 MANGKOK BUBUR,...' - 10 komentar berhasil diambil
+2025-11-27 22:48:08,873 - INFO - 📝 Video 'BUBUR AYAM LEGEND DI BANDUNG WAJIB COBA ‼️ #JKTFOO...' - 37 komentar berhasil diambil
+2025-11-27 22:48:09,114 - INFO - 📝 Video 'EMANG PALING ENAK BUBUR CILAMAYA ‼️ #shorts...' - 4 komentar berhasil diambil
+2025-11-27 22:48:09,378 - INFO - 📝 Video 'Bubur Ayam Sat Set. #caramembuat #buburayam #resep...' - 23 komentar berhasil diambil
+2025-11-27 22:48:09,600 - INFO - 📝 Video 'Makan Bubur Ayam Khas Karawang Ga Usah Jauh2 Di Da...' - 3 komentar berhasil diambil
+2025-11-27 22:48:10,059 - INFO - 📝 Video 'usaha rumahan bubur ayam...' - 8 komentar berhasil diambil
+2025-11-27 22:48:10,276 - INFO - 📝 Video '#viral #vidioshort #kuliner #buburayam #karawang...' - 3 komentar berhasil diambil
+2025-11-27 22:48:10,511 - INFO - 📝 Video 'Menikmati Bubur Ayam Khas Cilamaya...' - 4 komentar berhasil diambil
+2025-11-27 22:48:10,773 - INFO - 📝 Video 'Karawang street food bubur ayam sehat...' - 1 komentar berhasil diambil
+2025-11-27 22:48:10,773 - INFO - ✅ 'bubur ayam karawang': 29 video, 125 komentar (4.4s)
+2025-11-27 22:48:10,779 - INFO - 🔍 Memproses keyword: 'soto tangkar karawang'
+2025-11-27 22:48:11,313 - INFO - 📹 Ditemukan 24 video baru untuk keyword 'soto tangkar karawang'
+2025-11-27 22:48:11,883 - INFO - 📝 Video 'SOTO TANGKAR LEGENDARIS KARAWANG SEJAK 80an | UMKM...' - 3 komentar berhasil diambil
+2025-11-27 22:48:12,291 - INFO - 📝 Video 'RESEP SOTO TANGKAR || TERNYATATA GAMPANG || tapi h...' - 50 komentar berhasil diambil
+2025-11-27 22:48:12,584 - INFO - 📝 Video 'KULINER KARAWANG, SOTO TANGKAR, YANG JUAL SUDAH 3 ...' - 15 komentar berhasil diambil
+2025-11-27 22:48:13,006 - INFO - 📝 Video 'SOTO TANGKAR LEGENDARIS DI KARAWANG DAN PERNAH DIL...' - 17 komentar berhasil diambil
+2025-11-27 22:48:13,259 - INFO - 📝 Video 'SOTO TANGKAR MANG NEAN...' - 4 komentar berhasil diambil
+2025-11-27 22:48:13,529 - INFO - 📝 Video 'Makan!! Soto Tangkar Wong Karawang Saking Enak Nya...' - 44 komentar berhasil diambil
+2025-11-27 22:48:13,757 - INFO - 📝 Video 'Soto Tangkar Mang Ne'an Sejak Tahun 1980 || Jajana...' - 1 komentar berhasil diambil
+2025-11-27 22:48:14,009 - INFO - 📝 Video 'Nasi Tangkar Kaki Sapi dan Sumsum Kuliner Khas Kar...' - 4 komentar berhasil diambil
+2025-11-27 22:48:14,250 - INFO - 📝 Video 'SOTO TANGKAR KARAWANG MANG ENDI...' - 5 komentar berhasil diambil
+2025-11-27 22:48:14,525 - INFO - 📝 Video 'SOTO TANGKAR LEGENDARIS - MANG NEAN - Hand's Food ...' - 4 komentar berhasil diambil
+2025-11-27 22:48:14,763 - INFO - 📝 Video 'Soto Tangkar Karawang | Kuliner Khas Karawang, Jaw...' - 2 komentar berhasil diambil
+2025-11-27 22:48:14,967 - INFO - 📝 Video 'Nasi tangkar, sarapan khas Karawang...' - 2 komentar berhasil diambil
+2025-11-27 22:48:15,268 - INFO - 📝 Video 'BARU TAHU !!! TERNYATA INI KULINER KHAS KARAWANG S...' - 50 komentar berhasil diambil
+2025-11-27 22:48:15,565 - INFO - 📝 Video 'Nasi Tangkar Mang Endi di Karawang #usahakarawang ...' - 1 komentar berhasil diambil
+2025-11-27 22:48:15,817 - INFO - 📝 Video 'SOTO TANGKAR MANG NEAN, HABIS 20KG DAGING PER HARI...' - 8 komentar berhasil diambil
+2025-11-27 22:48:15,818 - INFO - ✅ 'soto tangkar karawang': 24 video, 210 komentar (5.0s)
+2025-11-27 22:48:15,823 - INFO - 🔍 Memproses keyword: 'durian karawang'
+2025-11-27 22:48:16,502 - INFO - 📹 Ditemukan 30 video baru untuk keyword 'durian karawang'
+2025-11-27 22:48:16,898 - INFO - 📝 Video 'Durian pontianak cabang karawang.. alamat kerta bu...' - 6 komentar berhasil diambil
+2025-11-27 22:48:17,221 - INFO - 📝 Video 'LJS durian Karawang‼️ surganya durian di Karawang...' - 50 komentar berhasil diambil
+2025-11-27 22:48:17,631 - INFO - 📝 Video 'kebun buah Karawang ||berburu durian murah #karawa...' - 13 komentar berhasil diambil
+2025-11-27 22:48:17,873 - INFO - 📝 Video 'SURABI DURIAN DAN DURIAN MONTONG DI KARAWANG |KULI...' - 15 komentar berhasil diambil
+2025-11-27 22:48:18,156 - INFO - 📝 Video 'Saatnya musim durian !!! Loji (Karawang) banjir du...' - 2 komentar berhasil diambil
+2025-11-27 22:48:18,366 - INFO - 📝 Video 'suasana di festival durian Loji Karawang #durian #...' - 1 komentar berhasil diambil
+2025-11-27 22:48:18,681 - INFO - 📝 Video 'Durian LJS karawang.. mantul, harga lebih murah da...' - 3 komentar berhasil diambil
+2025-11-27 22:48:19,009 - INFO - 📝 Video 'Kebun Durian di tengah kota Karawang...' - 3 komentar berhasil diambil
+2025-11-27 22:48:19,215 - INFO - 📝 Video 'hallo kota karawang spesial 200 SUBSCRIBE kita rea...' - 1 komentar berhasil diambil
+2025-11-27 22:48:19,499 - INFO - 📝 Video 'Kuliner Karawang - Mukbang Durian Di Yuki Pondok D...' - 15 komentar berhasil diambil
+2025-11-27 22:48:19,768 - INFO - 📝 Video 'Buah Durian Murah Meluncur ke Karawang. Glosir Dur...' - 17 komentar berhasil diambil
+2025-11-27 22:48:19,982 - INFO - 📝 Video 'YUKI PONDOK DURIAN GALUH MAS || KULINER KARAWANG J...' - 2 komentar berhasil diambil
+2025-11-27 22:48:20,189 - INFO - 📝 Video 'BELANJA DURIAN DI KEBUN BUAH KARAWANG #sinarniecha...' - 2 komentar berhasil diambil
+2025-11-27 22:48:20,440 - INFO - 📝 Video 'KULINER DURIAN ENAK DI KARAWANG - YUKI PONDOK DURI...' - 7 komentar berhasil diambil
+2025-11-27 22:48:20,787 - INFO - 📝 Video 'Promo terbaru‼️LJS DURIAN Karawang...' - 50 komentar berhasil diambil
+2025-11-27 22:48:21,023 - INFO - 📝 Video 'JAJAN ES DURIAN TER'ENAK DI KARAWANG || JAJANAN VI...' - 1 komentar berhasil diambil
+2025-11-27 22:48:21,248 - INFO - 📝 Video 'Durian Murah Dan Enak Di Karawang #shorts...' - 2 komentar berhasil diambil
+2025-11-27 22:48:21,450 - INFO - 📝 Video 'DURIAN MURAH DI KARAWANG || rasanya mantap cuma 25...' - 2 komentar berhasil diambil
+2025-11-27 22:48:21,685 - INFO - 📝 Video 'Es Durian viral di Karawang...' - 2 komentar berhasil diambil
+2025-11-27 22:48:21,878 - INFO - 📝 Video 'Kebun Buah Karawang, Baru Buka buah - buahannya ko...' - 13 komentar berhasil diambil
+2025-11-27 22:48:22,117 - INFO - 📝 Video 'BERBURU DURIAN LOJI KARAWANG DURIAN LOKAL RASANYA ...' - 2 komentar berhasil diambil
+2025-11-27 22:48:22,350 - INFO - 📝 Video 'CANDU DURIAN CIKAMPEK #cikampek #karawang #durian...' - 1 komentar berhasil diambil
+2025-11-27 22:48:22,626 - INFO - 📝 Video 'BERBURU DAN MENCICIPI DURIAN LOKAL KARAWANG SAAT M...' - 15 komentar berhasil diambil
+2025-11-27 22:48:22,877 - INFO - 📝 Video 'Kebun Durian Loji Karawang...' - 8 komentar berhasil diambil
+2025-11-27 22:48:22,877 - INFO - ✅ 'durian karawang': 30 video, 233 komentar (7.1s)
+2025-11-27 22:48:22,883 - INFO - 🔍 Memproses keyword: 'cafe aesthetic karawang'
+2025-11-27 22:48:23,380 - INFO - 📹 Ditemukan 24 video baru untuk keyword 'cafe aesthetic karawang'
+2025-11-27 22:48:23,716 - INFO - 📝 Video '#kulinerhits #kulinerindonesia #kulinerviral #vira...' - 1 komentar berhasil diambil
+2025-11-27 22:48:23,940 - INFO - 📝 Video 'CAFE BARU DI KARAWANG☕️ #kulinerviral #kuliner #ku...' - 1 komentar berhasil diambil
+2025-11-27 22:48:24,163 - INFO - 📝 Video 'CAFE ROOTOP DI KARAWANG🔥 #kulinerviral #andaralici...' - 1 komentar berhasil diambil
+2025-11-27 22:48:24,425 - INFO - 📝 Video 'PADDE RESTO & CAFE KARAWANG || RESTO BERNUANSA BAL...' - 12 komentar berhasil diambil
+2025-11-27 22:48:24,671 - INFO - 📝 Video 'Cafe terbaru di Karawang dengan nuansa Ala Jepang...' - 1 komentar berhasil diambil
+2025-11-27 22:48:24,898 - INFO - 📝 Video 'cafe aesthetic di karawang! kok ada mat peci??...' - 1 komentar berhasil diambil
+2025-11-27 22:48:25,218 - INFO - 📝 Video 'NUA CAFE KARAWANG...' - 1 komentar berhasil diambil
+2025-11-27 22:48:25,461 - INFO - 📝 Video 'CAFE KEKINIAN DI KARAWANG .. TONGKRONGAN BARU ANAK...' - 1 komentar berhasil diambil
+2025-11-27 22:48:25,836 - INFO - 📝 Video 'BARU !! PADEE RESTO & CAFE KARAWANG || Serasa di B...' - 49 komentar berhasil diambil
+2025-11-27 22:48:26,052 - INFO - 📝 Video 'Cafe/ Foodcourt kekinian sekota Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:48:26,331 - INFO - 📝 Video 'Numa Numa Garden,Hidden Gem Banget ni Cafe at Kara...' - 1 komentar berhasil diambil
+2025-11-27 22:48:26,558 - INFO - 📝 Video 'Cafe nuansa hijau di Jakarta Timur🍃...' - 6 komentar berhasil diambil
+2025-11-27 22:48:26,558 - INFO - ✅ 'cafe aesthetic karawang': 24 video, 76 komentar (3.7s)
+2025-11-27 22:48:26,565 - INFO - 🔍 Memproses keyword: 'coffee shop karawang'
+2025-11-27 22:48:26,872 - INFO - 📹 Ditemukan 18 video baru untuk keyword 'coffee shop karawang'
+2025-11-27 22:48:27,376 - INFO - 📝 Video 'Coffee shop terluas 💯 #jakarta #coffeeshop #placet...' - 3 komentar berhasil diambil
+2025-11-27 22:48:27,604 - INFO - 📝 Video 'CAFE BARU DI KARAWANG #kulinerviral #viral #viral ...' - 1 komentar berhasil diambil
+2025-11-27 22:48:27,839 - INFO - 📝 Video 'Review Coffee Shop Artis | Tuan Tanah Coffee #yukn...' - 2 komentar berhasil diambil
+2025-11-27 22:48:28,087 - INFO - 📝 Video 'Salah satu cafe terbaik di Cikarang - Harimau Kopi...' - 2 komentar berhasil diambil
+2025-11-27 22:48:28,301 - INFO - 📝 Video 'COFFEE SHOP TERBAIK DI ALAM SUTRA? #kuliner #kulin...' - 1 komentar berhasil diambil
+2025-11-27 22:48:28,531 - INFO - 📝 Video 'rekomendasi cafe di Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:48:28,760 - INFO - 📝 Video 'Cafe Ayang The Warkop At Karawang City #nongkrong#...' - 2 komentar berhasil diambil
+2025-11-27 22:48:28,997 - INFO - 📝 Video 'BIGGEST COFFEE SHOP IN SOUTH JAKARTA #coffeeshop #...' - 2 komentar berhasil diambil
+2025-11-27 22:48:29,224 - INFO - 📝 Video 'OKUGAI CAFE & RESTO || CAFE TERBARU ALA JEPANG DI ...' - 7 komentar berhasil diambil
+2025-11-27 22:48:29,609 - INFO - 📝 Video 'COFFEE SHOP TROPICAL GARDEN DI JAKARTA - BUKANAGAR...' - 50 komentar berhasil diambil
+2025-11-27 22:48:29,934 - INFO - 📝 Video 'COFFEE SHOP PREMIUM DI JAKARTA, BIJI KOPINYA DARI ...' - 15 komentar berhasil diambil
+2025-11-27 22:48:30,157 - INFO - 📝 Video 'Rekomendasi Cafe Karawang Timur [Excelso Aja 🍯]...' - 1 komentar berhasil diambil
+2025-11-27 22:48:30,157 - INFO - ✅ 'coffee shop karawang': 18 video, 87 komentar (3.6s)
+2025-11-27 22:48:30,162 - INFO - 🔍 Memproses keyword: 'restoran keluarga karawang'
+2025-11-27 22:48:30,833 - INFO - 📹 Ditemukan 18 video baru untuk keyword 'restoran keluarga karawang'
+2025-11-27 22:48:31,150 - INFO - 📝 Video 'KAMPUNG KECIL BUKA DI KARAWANG #kulinerviral #rest...' - 6 komentar berhasil diambil
+2025-11-27 22:48:31,399 - INFO - 📝 Video 'LESEHAN SAWAREGNA ADININGRAT ‼️ KULINER KARAWANG E...' - 7 komentar berhasil diambil
+2025-11-27 22:48:31,636 - INFO - 📝 Video 'KAMPUNG KECIL KARAWANG‼️ SWUPERR COZY RECOMMENDED ...' - 2 komentar berhasil diambil
+2025-11-27 22:48:32,090 - INFO - 📝 Video 'Restoran Nuansa Alam di Kawasan Industri, Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:48:32,309 - INFO - 📝 Video 'Tempat dan makanan wajib di Karawang, Kampung keci...' - 3 komentar berhasil diambil
+2025-11-27 22:48:32,549 - INFO - 📝 Video 'Rekomendasi restoran di Karawang dengan tempat yan...' - 2 komentar berhasil diambil
+2025-11-27 22:48:32,829 - INFO - 📝 Video 'Restoran termewah di Karawang Barat || Sindang Rer...' - 7 komentar berhasil diambil
+2025-11-27 22:48:33,052 - INFO - 📝 Video 'Restoran Cibiuk Karawang - Review singkat...' - 2 komentar berhasil diambil
+2025-11-27 22:48:33,324 - INFO - 📝 Video 'imah urang karawang #restoran #cafe #karaoke #sawa...' - 1 komentar berhasil diambil
+2025-11-27 22:48:33,615 - INFO - 📝 Video 'Satu Atap Cafe & Resto Ckm Karawang (Rumah Makan T...' - 19 komentar berhasil diambil
+2025-11-27 22:48:34,024 - INFO - 📝 Video 'Warung tuang Karawang⁉️#fyp #viralvideo #shorts #k...' - 4 komentar berhasil diambil
+2025-11-27 22:48:34,286 - INFO - 📝 Video 'review restoran cibiuk karawang kumpul bareng kelu...' - 12 komentar berhasil diambil
+2025-11-27 22:48:34,500 - INFO - 📝 Video 'RESTORAN SURGA TERSEMBUNYI DI BEKASI YANG WAJIB KA...' - 3 komentar berhasil diambil
+2025-11-27 22:48:35,253 - INFO - 📝 Video 'KARAWANG : RUMAH MAKAN SUNDA PINGGIR SAWAH - WARUN...' - 2 komentar berhasil diambil
+2025-11-27 22:48:35,253 - INFO - ✅ 'restoran keluarga karawang': 18 video, 71 komentar (5.1s)
+2025-11-27 22:48:35,259 - INFO - 🔍 Memproses keyword: 'tempat makan romantis karawang'
+2025-11-27 22:48:35,782 - INFO - 📹 Ditemukan 25 video baru untuk keyword 'tempat makan romantis karawang'
+2025-11-27 22:48:36,139 - INFO - 📝 Video 'Saung Gurilem Karawang...' - 9 komentar berhasil diambil
+2025-11-27 22:48:36,379 - INFO - 📝 Video 'ROMANTIC DINNER ASTON IMPERIAL BEKASI #shorts #imp...' - 1 komentar berhasil diambil
+2025-11-27 22:48:36,738 - INFO - 📝 Video 'ROMANTIC DINER DI NUMA NUMA GARDEN | KULINER KARAW...' - 13 komentar berhasil diambil
+2025-11-27 22:48:36,983 - INFO - 📝 Video 'REVIEW NUMA NUMA CAFE (GARDEN VIEW)| CAFÉ KARAWANG...' - 12 komentar berhasil diambil
+2025-11-27 22:48:37,281 - INFO - 📝 Video 'Kuliner Couple ‼️ - Ciyee romantis ciyee.. | Kulin...' - 24 komentar berhasil diambil
+2025-11-27 22:48:37,518 - INFO - 📝 Video 'Kef Cafe, Kafe Hits Karawang - Makan asyik tempat ...' - 6 komentar berhasil diambil
+2025-11-27 22:48:37,877 - INFO - 📝 Video '5 Tempat Makan Di Karawang Yang Ga Bikin Dompet Ka...' - 7 komentar berhasil diambil
+2025-11-27 22:48:38,126 - INFO - 📝 Video '7 RESTO BEKASI PALING TERBARU DAN HITS 2024‼️ BIKI...' - 39 komentar berhasil diambil
+2025-11-27 22:48:38,385 - INFO - 📝 Video '5 Tempat Makan Romantis di Jakarta untuk Merayakan...' - 2 komentar berhasil diambil
+2025-11-27 22:48:38,648 - INFO - 📝 Video 'RESTO ALAM SARI cab. KARAWANG...' - 2 komentar berhasil diambil
+2025-11-27 22:48:38,870 - INFO - 📝 Video 'Jep@ng ❌ bekasi ✅ #wisata #bekasi #wisatabekasi #w...' - 11 komentar berhasil diambil
+2025-11-27 22:48:39,191 - INFO - 📝 Video 'KAMPUNG KECIL VIRAL #shorts #akukamudanmakanan...' - 42 komentar berhasil diambil
+2025-11-27 22:48:39,553 - INFO - 📝 Video 'Tempat Makan Bocil Friendly 😍 #anak #makan #idemai...' - 3 komentar berhasil diambil
+2025-11-27 22:48:39,807 - INFO - 📝 Video 'Tinggi Banget! Restoran Lantai 69 fi Jakarta - Hen...' - 2 komentar berhasil diambil
+2025-11-27 22:48:40,058 - INFO - 📝 Video 'Alam Sari Karawang...' - 13 komentar berhasil diambil
+2025-11-27 22:48:40,058 - INFO - ✅ 'tempat makan romantis karawang': 25 video, 186 komentar (4.8s)
+2025-11-27 22:48:40,063 - INFO - 🔍 Memproses keyword: 'cafe instagramable karawang'
+2025-11-27 22:48:40,630 - INFO - 📹 Ditemukan 10 video baru untuk keyword 'cafe instagramable karawang'
+2025-11-27 22:48:40,982 - INFO - 📝 Video 'NUMA-NUMA GARDEN | Cafe Hits di Karawang dengan vi...' - 5 komentar berhasil diambil
+2025-11-27 22:48:41,378 - INFO - 📝 Video 'CAFE PALING KEKINIAN DI KARAWANG - Djeroe Cafe...' - 2 komentar berhasil diambil
+2025-11-27 22:48:41,810 - INFO - 📝 Video 'NUMA NUMA CAFE, KARAWANG TIMUR TEMPAT KONGKOW ASIK...' - 10 komentar berhasil diambil
+2025-11-27 22:48:42,067 - INFO - 📝 Video 'Cafe Tersembunyi Di Karawang NUMA NUMA GARDEN...' - 26 komentar berhasil diambil
+2025-11-27 22:48:42,625 - INFO - 📝 Video 'Cafe Instagramable Unik & Kekinian di Jakarta by R...' - 2 komentar berhasil diambil
+2025-11-27 22:48:43,020 - INFO - 📝 Video 'KONDISI TERBARU NUMA NUMA CAFE‼️ MAKIN HITS DAN IN...' - 9 komentar berhasil diambil
+2025-11-27 22:48:43,272 - INFO - 📝 Video '2 CAFE INSTAGRAMABLE DI JAKARTA BARAT | ROAST KETA...' - 9 komentar berhasil diambil
+2025-11-27 22:48:43,625 - INFO - 📝 Video 'TEMPAT NONGKRONG JAKARTA CAFE OUTDOOR INSTAGRAMABL...' - 12 komentar berhasil diambil
+2025-11-27 22:48:43,943 - INFO - 📝 Video 'CAFE MURMER & INSTAGRAMABLE YANG ADA DI BEKASI ‼️...' - 1 komentar berhasil diambil
+2025-11-27 22:48:43,944 - INFO - ✅ 'cafe instagramable karawang': 10 video, 76 komentar (3.9s)
+2025-11-27 22:48:43,948 - INFO - 🔍 Memproses keyword: 'resto sunda karawang'
+2025-11-27 22:48:44,471 - INFO - 📹 Ditemukan 15 video baru untuk keyword 'resto sunda karawang'
+2025-11-27 22:48:44,844 - INFO - 📝 Video 'Review Lengkap Resto Sunda Kampung Budaya, Karawan...' - 50 komentar berhasil diambil
+2025-11-27 22:48:45,291 - INFO - 📝 Video 'Resto khas sunda | Kampung Turis Karawang...' - 9 komentar berhasil diambil
+2025-11-27 22:48:45,631 - INFO - 📝 Video 'RUMAH MAKAN SUNDA BAHEULA YANG LAGI VIRAL‼️#shorts...' - 9 komentar berhasil diambil
+2025-11-27 22:48:45,844 - INFO - 📝 Video 'Rumah Makan Khas Sunda "Cibiuk Resto" Karawang...' - 4 komentar berhasil diambil
+2025-11-27 22:48:46,221 - INFO - 📝 Video 'Resto Sunda Kampung Budaya Karawang...' - 3 komentar berhasil diambil
+2025-11-27 22:48:46,507 - INFO - 📝 Video 'Review Lengkap Resto Warung Makan Ibu Teddy 88 Kha...' - 2 komentar berhasil diambil
+2025-11-27 22:48:46,792 - INFO - 📝 Video 'RESTO SUNDA BARU DI JAKARTA TIMUR VIBES BOGOR #kul...' - 2 komentar berhasil diambil
+2025-11-27 22:48:47,031 - INFO - 📝 Video 'RUMAH MAKAN SUNDA LEGENDARIS YANG SUDAH TERKENAL D...' - 0 komentar berhasil diambil
+2025-11-27 22:48:47,333 - INFO - 📝 Video 'KULINER RAN KELUARGA DI BEKASI MURAH MERIAH, WAJIB...' - 15 komentar berhasil diambil
+2025-11-27 22:48:47,333 - INFO - ✅ 'resto sunda karawang': 15 video, 94 komentar (3.4s)
+2025-11-27 22:48:47,339 - INFO - 🔍 Memproses keyword: 'kuliner galuh mas karawang'
+2025-11-27 22:48:47,652 - INFO - 📹 Ditemukan 27 video baru untuk keyword 'kuliner galuh mas karawang'
+2025-11-27 22:48:48,000 - INFO - 📝 Video 'MIE GACOAN MIE VIRAL || KULINER GALUH MAS KARAWANG...' - 1 komentar berhasil diambil
+2025-11-27 22:48:48,445 - INFO - 📝 Video 'Kuliner Pagi Galuh Mas Karawang | Eat'Em Out (Kara...' - 7 komentar berhasil diambil
+2025-11-27 22:48:48,769 - INFO - 📝 Video 'Ada Loh Pusat Kuliner Di Galuh Mas Pakuan Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:48:49,016 - INFO - 📝 Video 'Berburu Kuliner di Pasar Pagi Galuh Mas Karawang |...' - 2 komentar berhasil diambil
+2025-11-27 22:48:49,250 - INFO - 📝 Video 'BERBURU KULINER DI GALUH MAS KARAWANG, BANYAK MAKA...' - 19 komentar berhasil diambil
+2025-11-27 22:48:49,609 - INFO - 📝 Video 'Rumah makan alam sari galuh mas karawang#wisatakul...' - 7 komentar berhasil diambil
+2025-11-27 22:48:50,000 - INFO - 📝 Video 'STEAK JONGKOK GALUH MAS KARAWANG.MANTAP RASANYA GU...' - 33 komentar berhasil diambil
+2025-11-27 22:48:50,609 - INFO - 📝 Video 'RESTO KITA GALUH MAS KARAWANG...' - 11 komentar berhasil diambil
+2025-11-27 22:48:50,874 - INFO - 📝 Video 'Berburu Kuliner DiPasar Pagi Galuh Mas Karawang | ...' - 20 komentar berhasil diambil
+2025-11-27 22:48:51,122 - INFO - 📝 Video 'WOOW SERU!! STEAK 21 GALUH MAS KARAWANG 2022 | SEN...' - 11 komentar berhasil diambil
+2025-11-27 22:48:51,347 - INFO - 📝 Video 'WARUNK UPNORMAL GALUH MAS KARAWANG || JAJANAN KULI...' - 5 komentar berhasil diambil
+2025-11-27 22:48:51,581 - INFO - 📝 Video 'Laksa | makanan legendaris | kuliner karawang | pa...' - 2 komentar berhasil diambil
+2025-11-27 22:48:51,801 - INFO - 📝 Video 'DULU VIRALL‼️ ANTRI SAMPAI MENGULAR || SEKARANG AP...' - 3 komentar berhasil diambil
+2025-11-27 22:48:52,254 - INFO - 📝 Video 'Lontong sayur kari ayam & sapi Pak Kumis Galuh Mas...' - 3 komentar berhasil diambil
+2025-11-27 22:48:52,498 - INFO - 📝 Video 'Bakso Boedjangan Galuh Mas Karawang...' - 5 komentar berhasil diambil
+2025-11-27 22:48:52,498 - INFO - ✅ 'kuliner galuh mas karawang': 27 video, 130 komentar (5.2s)
+2025-11-27 22:48:52,504 - INFO - 🔍 Memproses keyword: 'kuliner karawang barat'
+2025-11-27 22:48:52,833 - INFO - 📹 Ditemukan 2 video baru untuk keyword 'kuliner karawang barat'
+2025-11-27 22:48:52,919 - INFO - ✅ 'kuliner karawang barat': 2 video, 0 komentar (0.4s)
+2025-11-27 22:48:52,925 - INFO - 🔍 Memproses keyword: 'kuliner cikampek'
+2025-11-27 22:48:53,474 - INFO - 📹 Ditemukan 27 video baru untuk keyword 'kuliner cikampek'
+2025-11-27 22:48:53,802 - INFO - 📝 Video 'Warung makan PRASMANAN harga MURAH di Cikampek...' - 1 komentar berhasil diambil
+2025-11-27 22:48:54,048 - INFO - 📝 Video '10 MACAM BAKSO , WAJIB COBAIN DEH , CIKAMPEK...' - 3 komentar berhasil diambil
+2025-11-27 22:48:54,314 - INFO - 📝 Video 'Bertahan Hidup Rp100.000 di Cikampek...' - 50 komentar berhasil diambil
+2025-11-27 22:48:54,617 - INFO - 📝 Video 'RUMAH MAKAN MAS IHSAN CIKAMPEK || Wisata Kuliner d...' - 50 komentar berhasil diambil
+2025-11-27 22:48:54,843 - INFO - 📝 Video 'kuliner ramah di kantong lokasi di cikampek karawa...' - 7 komentar berhasil diambil
+2025-11-27 22:48:55,139 - INFO - 📝 Video 'COBAIN JUARANYA SEBALK DI CIKAMPEK...' - 50 komentar berhasil diambil
+2025-11-27 22:48:55,359 - INFO - 📝 Video '10 KULINER PURWAKARTA ENAK YANG WAJIB DICOBA...' - 1 komentar berhasil diambil
+2025-11-27 22:48:55,583 - INFO - 📝 Video 'kuliner hit cikampek #shorts#shortvideo #kuliner #...' - 2 komentar berhasil diambil
+2025-11-27 22:48:55,825 - INFO - 📝 Video 'Saung Bodeman Kuliner Cikampek Wadas Telagasari 35...' - 1 komentar berhasil diambil
+2025-11-27 22:48:56,095 - INFO - 📝 Video 'KULINER CIKAMPEK #bakso #cikampek #fypシ゚ #fyp #sho...' - 1 komentar berhasil diambil
+2025-11-27 22:48:57,068 - INFO - 📝 Video 'TERBARU TOKO DAGING NUSANTARA CIKAMPEK || Wisata k...' - 50 komentar berhasil diambil
+2025-11-27 22:48:57,281 - INFO - 📝 Video 'MAKANAN SUNDA LENGKAP DICIKAMPEK ‼️ #shorts...' - 3 komentar berhasil diambil
+2025-11-27 22:48:57,576 - INFO - 📝 Video 'Santai Dan Kuliner Di Hutan Penelitian Cikampek...' - 1 komentar berhasil diambil
+2025-11-27 22:48:57,877 - INFO - 📝 Video 'Serius menunya sebanyak ini!! #streetfood #kuliner...' - 4 komentar berhasil diambil
+2025-11-27 22:48:58,190 - INFO - 📝 Video 'WARUNG PEPES BALEBAT CIKAMPEK ❗️TEMPAT MAKAN PALIN...' - 2 komentar berhasil diambil
+2025-11-27 22:48:58,418 - INFO - 📝 Video 'AYAM TERBANG ‼️ZAKIYYAS KITCHEN CIKAMPEK #infokuli...' - 2 komentar berhasil diambil
+2025-11-27 22:48:58,764 - INFO - 📝 Video 'Kuliner Cikampek Karawang | Eat'Em Out Karawang Ku...' - 9 komentar berhasil diambil
+2025-11-27 22:49:00,856 - INFO - 📝 Video 'Sate Maranggi Makin MELEGENDA #satemaranggi #kulin...' - 11 komentar berhasil diambil
+2025-11-27 22:49:00,856 - INFO - ✅ 'kuliner cikampek': 27 video, 248 komentar (7.9s)
+2025-11-27 22:49:00,861 - INFO - 🔍 Memproses keyword: 'kuliner perumnas karawang'
+2025-11-27 22:49:01,380 - INFO - 📹 Ditemukan 11 video baru untuk keyword 'kuliner perumnas karawang'
+2025-11-27 22:49:01,684 - INFO - 📝 Video 'Cilok Paling Enak di Perumnas Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:49:01,931 - INFO - 📝 Video 'Menikmati Menu Masakan dari Rumah Makan Dapur Remp...' - 12 komentar berhasil diambil
+2025-11-27 22:49:02,245 - INFO - 📝 Video 'ANGKRINGAN PERUMNAS TELUKJAMBE PALING ENAK MURMER ...' - 19 komentar berhasil diambil
+2025-11-27 22:49:02,475 - INFO - 📝 Video 'gado-gado enak di perumnas karawang...' - 2 komentar berhasil diambil
+2025-11-27 22:49:04,368 - INFO - 📝 Video 'Soto Seger Boyolali Hj Amanah, Rumah Makan enak di...' - 18 komentar berhasil diambil
+2025-11-27 22:49:04,605 - INFO - 📝 Video '📍Seblak Teh Nina Perumnas Telukjambe Karawang, yan...' - 1 komentar berhasil diambil
+2025-11-27 22:49:04,605 - INFO - ✅ 'kuliner perumnas karawang': 11 video, 53 komentar (3.7s)
+2025-11-27 22:49:04,610 - INFO - 🔍 Memproses keyword: 'kuliner tuparev karawang'
+2025-11-27 22:49:05,110 - INFO - 📹 Ditemukan 21 video baru untuk keyword 'kuliner tuparev karawang'
+2025-11-27 22:49:05,465 - INFO - 📝 Video 'Tahu Gejrot Legend di Tuparev Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:49:05,706 - INFO - 📝 Video 'VIRAL‼️‼️Pasar Malam Kuliner || Tuparev Karawang...' - 1 komentar berhasil diambil
+2025-11-27 22:49:06,060 - INFO - 📝 Video 'Lumpia Basah Legendaris di Karawang, Cuma di Jalan...' - 2 komentar berhasil diambil
+2025-11-27 22:49:06,290 - INFO - 📝 Video 'TEMPAT KULINERAN BARU DI KARAWANG | Karawang Kulin...' - 1 komentar berhasil diambil
+2025-11-27 22:49:06,576 - INFO - 📝 Video 'MAKAN BARENG! Nasi Padang Dengan Suami di Tuparev ...' - 2 komentar berhasil diambil
+2025-11-27 22:49:06,812 - INFO - 📝 Video 'Kuliner Karawang ‼️‼️ Kedai Sambal Dadak - Masakan...' - 2 komentar berhasil diambil
+2025-11-27 22:49:07,129 - INFO - 📝 Video 'Festival kuliner Tuparev Karawang #kulinerbakso #s...' - 1 komentar berhasil diambil
+2025-11-27 22:49:07,356 - INFO - 📝 Video 'WARUNG MAKAN PRASMANAN TERENAK DI KARAWANG...' - 1 komentar berhasil diambil
+2025-11-27 22:49:07,356 - INFO - ✅ 'kuliner tuparev karawang': 21 video, 11 komentar (2.7s)
+2025-11-27 22:49:07,362 - INFO - 🔍 Memproses keyword: 'jajanan gor panatayuda karawang'
+2025-11-27 22:49:07,837 - INFO - 📹 Ditemukan 4 video baru untuk keyword 'jajanan gor panatayuda karawang'
+2025-11-27 22:49:08,359 - INFO - 📝 Video '2 ribuan sepotong nya jajanan murah meriyah !! #st...' - 50 komentar berhasil diambil
+2025-11-27 22:49:08,729 - INFO - 📝 Video 'PILIH ACAK MAKANAN TERDEKAT DI KARAWANG!! JAUH JAU...' - 50 komentar berhasil diambil
+2025-11-27 22:49:09,020 - INFO - 📝 Video 'Jajanan Viral serba 10rb di Karawang #jajanan #foo...' - 1 komentar berhasil diambil
+2025-11-27 22:49:09,228 - INFO - 📝 Video 'Surya Akbar Nyobain Kulineran di Warung Tuang, Kar...' - 1 komentar berhasil diambil
+2025-11-27 22:49:09,228 - INFO - ✅ 'jajanan gor panatayuda karawang': 4 video, 102 komentar (1.9s)
+2025-11-27 22:49:09,233 - INFO - 🔍 Memproses keyword: 'mukbang karawang'
+2025-11-27 22:49:09,710 - INFO - 📹 Ditemukan 19 video baru untuk keyword 'mukbang karawang'
+2025-11-27 22:49:10,276 - INFO - 📝 Video 'GAK BOSEN MAKAN BAKSO PEDES TOPING TETEP CABE #muk...' - 50 komentar berhasil diambil
+2025-11-27 22:49:10,643 - INFO - 📝 Video 'Banyak yang rekomen katanya enak salah satu terena...' - 50 komentar berhasil diambil
+2025-11-27 22:49:11,099 - INFO - 📝 Video 'REVIEW JUJUR MIE JEBEW PALING SADIS DI KARAWANG LA...' - 50 komentar berhasil diambil
+2025-11-27 22:49:11,379 - INFO - 📝 Video 'Mantap Bangett‼️Kalau musim dingin gini yg selalu ...' - 36 komentar berhasil diambil
+2025-11-27 22:49:11,673 - INFO - 📝 Video 'BAKSO KALI INI MAH EDAN BANGET,KUAHNYA LEKOH PISAN...' - 50 komentar berhasil diambil
+2025-11-27 22:49:11,955 - INFO - 📝 Video 'SHOMTAM THAILAND DI LIDAH AKU GIMANA RASANYA YA.? ...' - 14 komentar berhasil diambil
+2025-11-27 22:49:12,618 - INFO - 📝 Video 'COBEKNYA DI BAKAR..!! IGA BAKAR PALING MANTAP DI K...' - 7 komentar berhasil diambil
+2025-11-27 22:49:12,869 - INFO - 📝 Video 'MAKAN KHAS SUNDA,JENGKOL MUDA SAMBAL EXTRA HOT #mu...' - 26 komentar berhasil diambil
+2025-11-27 22:49:13,135 - INFO - 📝 Video 'INIKAH YANG DI NAMAKAN BAKSO,KO BISA KAYA GINI RAS...' - 21 komentar berhasil diambil
+2025-11-27 22:49:13,630 - INFO - 📝 Video 'THOFU DITANTANG! GILA GILA! MAKAN SAMBEL SEMANGKOK...' - 50 komentar berhasil diambil
+2025-11-27 22:49:14,130 - INFO - 📝 Video 'EDAN EDAN!MAKAN SAMBEL SATU COBEK GEDE RATUSAN CAB...' - 50 komentar berhasil diambil
+2025-11-27 22:49:14,633 - INFO - 📝 Video 'Coba di Jakarta siomay ada yang lebih mahal dari s...' - 50 komentar berhasil diambil
+2025-11-27 22:49:14,986 - INFO - 📝 Video 'BAKSO ADMIN RATU CABE,COBA KITA RIVIEW #mukbang #f...' - 50 komentar berhasil diambil
+2025-11-27 22:49:15,619 - INFO - 📝 Video 'Sambal cumi pete, jengkol muda,karedok lenca, samb...' - 50 komentar berhasil diambil
+2025-11-27 22:49:15,931 - INFO - 📝 Video 'Yamin enak di Jakarta !!!! Terniat ini sih , semua...' - 50 komentar berhasil diambil
+2025-11-27 22:49:16,610 - INFO - 📝 Video 'Ngiler banget‼️Mukbang bakso enak ala ratu cabe🤤🔥...' - 17 komentar berhasil diambil
+2025-11-27 22:49:16,610 - INFO - ✅ 'mukbang karawang': 19 video, 621 komentar (7.4s)
+2025-11-27 22:49:16,616 - INFO - 🔍 Memproses keyword: 'review jujur makanan karawang'
+2025-11-27 22:49:17,131 - INFO - 📹 Ditemukan 15 video baru untuk keyword 'review jujur makanan karawang'
+2025-11-27 22:49:17,471 - INFO - 📝 Video 'Review Makanan Jujur | Resto Alam Sari Karawang #r...' - 2 komentar berhasil diambil
+2025-11-27 22:49:17,931 - INFO - 📝 Video 'gorengan nambah kikil satu harga 40rb! cungkring p...' - 50 komentar berhasil diambil
+2025-11-27 22:49:18,295 - INFO - 📝 Video 'Sushi Yay! 1 Bintang vs 5 Bintang #sushi #chicken ...' - 50 komentar berhasil diambil
+2025-11-27 22:49:18,537 - INFO - 📝 Video 'MIE GACOAN KARAWANG | REVIEW JUJUR MAKAN MIE PEDAS...' - 2 komentar berhasil diambil
+2025-11-27 22:49:18,944 - INFO - 📝 Video 'RIGEN REVIEW JUJUR DADAR BEREDAR BABE CABITA❗#shor...' - 50 komentar berhasil diambil
+2025-11-27 22:49:19,185 - INFO - 📝 Video 'Kampung Kecil Karawang / Rekomendasi Tempat Makan ...' - 2 komentar berhasil diambil
+2025-11-27 22:49:19,560 - INFO - 📝 Video 'Makanan India Jorok tapi Laris #shorts...' - 50 komentar berhasil diambil
+2025-11-27 22:49:20,108 - INFO - 📝 Video 'Dadar beredar#nasitelur #kulinerjakarta #surakarta...' - 50 komentar berhasil diambil
+2025-11-27 22:49:20,518 - INFO - 📝 Video 'AKU BANDINGIN MENU TERMURAH LAWAN MENU TERMAHAL DI...' - 50 komentar berhasil diambil
+2025-11-27 22:49:20,760 - INFO - 📝 Video 'waroeng steak&shake karawang#wisatakuliner #shorts...' - 1 komentar berhasil diambil
+2025-11-27 22:49:21,339 - INFO - 📝 Video 'BAKSO INI PAKE NOMER ANTRIAN, SEENAK APA?...' - 50 komentar berhasil diambil
+2025-11-27 22:49:21,750 - INFO - 📝 Video 'Pelopor Chicken Steak MURAH di Jakarta!! #food #st...' - 50 komentar berhasil diambil
+2025-11-27 22:49:22,170 - INFO - 📝 Video 'beli cungkring pak jumat 100.000 kenyangnya sampe ...' - 50 komentar berhasil diambil
+2025-11-27 22:49:22,171 - INFO - ✅ 'review jujur makanan karawang': 15 video, 457 komentar (5.6s)
+2025-11-27 22:49:22,176 - INFO - 🔍 Memproses keyword: 'vlog kuliner karawang'
+2025-11-27 22:49:22,561 - INFO - 📹 Ditemukan 4 video baru untuk keyword 'vlog kuliner karawang'
+2025-11-27 22:49:22,863 - INFO - 📝 Video 'Tempat dan makanan wajib di Karawang, Warung tuang...' - 2 komentar berhasil diambil
+2025-11-27 22:49:22,863 - INFO - ✅ 'vlog kuliner karawang': 4 video, 2 komentar (0.7s)
+2025-11-27 22:49:22,957 - INFO - 
+============================================================
+2025-11-27 22:49:22,958 - INFO - ✅ SCRAPING MASSIF SELESAI!
+2025-11-27 22:49:22,958 - INFO - ⏱️  Waktu proses: 2m 37s
+2025-11-27 22:49:22,958 - INFO - 📊 Statistik Final:
+2025-11-27 22:49:22,958 - INFO -    ✅ Keywords berhasil: 32
+2025-11-27 22:49:22,958 - INFO -    ❌ Keywords gagal: 0
+2025-11-27 22:49:22,958 - INFO -    🎥 Total video: 654
+2025-11-27 22:49:22,958 - INFO -    🗣️  Total komentar: 6524
+2025-11-27 22:49:22,958 - INFO -    📝 Data points: 6724 baris
+2025-11-27 22:49:22,958 - INFO -    🗑️  Duplikat dihapus: 13
+2025-11-27 22:49:22,958 - INFO - 
+📂 File hasil: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/yt/dataset_youtube_fnb_karawang_MASSIVE_20251127_224645.csv
+2025-11-27 22:49:22,958 - INFO - 📋 Laporan: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/yt/scraping_summary_20251127_224645.txt
+2025-11-27 22:49:22,958 - INFO - 📝 Log detail: /home/mrsnow/dev/python/skripsi/skripsi/sentimen/data/yt/youtube_scraping_log_20251127_224645.txt
+2025-11-27 22:49:22,958 - INFO - ============================================================
+2025-11-27 22:49:22,958 - INFO - 
+🔍 Preview 5 Data Teratas:
+2025-11-27 22:49:22,959 - INFO -   📹 Rekomendasi Tempat Makan di Karawang yang Enak dan... | 👁️ 10506 | 💬 Lokasi...
+2025-11-27 22:49:22,959 - INFO -   📹 Rekomendasi Tempat Makan di Karawang yang Enak dan... | 👁️ 10506 | 💬 Itu alangkap lengkapnya di man...
+2025-11-27 22:49:22,959 - INFO -   📹 10 Kuliner Wisata KARAWANG yang Terkenal dan Viral... | 👁️ 7817 | 💬 Assalamualaikum mantap luar bi...
+2025-11-27 22:49:22,959 - INFO -   📹 10 Kuliner Wisata KARAWANG yang Terkenal dan Viral... | 👁️ 7817 | 💬 Assalamualaikum selamat pagi k...
+2025-11-27 22:49:22,959 - INFO -   📹 10 Kuliner Wisata KARAWANG yang Terkenal dan Viral... | 👁️ 7817 | 💬 Terimakasih untuk video inform...
+2025-11-27 22:49:22,960 - INFO - 🗑️ File backup progress dihapus
